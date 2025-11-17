@@ -1,0 +1,1067 @@
+{
+  "generated_at": "2025-11-17T08:45:09.457094",
+  "total_problematic": 50,
+  "priority_distribution": {
+    "low": 50
+  },
+  "review_instructions": "請人工審核以下聚類,考慮合併或拆分。優先處理 CRITICAL 和 HIGH 項目。",
+  "clusters": [
+    {
+      "cluster_id": 24,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.735799918125888,
+        "min_member_similarity": 0.6965668852470803,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "平均相似度偏低: 0.74",
+        "review_priority": "medium",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "3   雇主於實施監測十五日前，應將監測計畫依中央主管機關公告之網路登錄系統及格式，實施通報。",
+        "4   雇主應於採樣或測定後四十五日內完成監測結果報告，通報至中央主管機關指定之資訊系統。",
+        "4   雇主對於前項監測計畫及監測結果，應公開揭示，並通報中央主管機關。"
+      ]
+    },
+    {
+      "cluster_id": 43,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6668524843875205,
+        "min_member_similarity": 0.4399493728684041,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.44",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主實施作業環境監測時，應設置或委託監測機構辦理。",
+        "1   雇主依前二條訂定監測計畫，實施作業環境監測時，應會同職業安全衛生人員及勞工代表實施。",
+        "1   雇主對擔任施工安全評估之勞工，應於事前使其接受施工安全評估人員之安全衛生教育訓練。",
+        "1   雇主對擔任製程安全評估之勞工，應於事前使其接受製程安全評估人員之安全衛生教育訓練。",
+        "1   雇主對工作場所急救人員，應使其接受急救人員之安全衛生教育訓練。"
+      ]
+    },
+    {
+      "cluster_id": 44,
+      "member_count": 5,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7180974274392269,
+        "min_member_similarity": 0.5705394533045473,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.57",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "1   製造者、輸入者或供應者提供危害性化學品與事業單位或自營作業者前，應於容器上予以標示。",
+        "1   雇主對含有危害性化學品或符合附表三規定之每一化學品，應依附表四提供勞工安全資料表。",
+        "1   雇主對於具有危害性之化學品，應予標示、製備清單及揭示安全資料表，並採取必要之通識措施。",
+        "1   雇主使勞工使用危險物從事作業前，應確認所使用物質之危險性，採取預防之必要措施。",
+        "雇主使勞工使用有害物從事作業前，應確認所使用物質之危害性，採取預防危害之必要措施。"
+      ]
+    },
+    {
+      "cluster_id": 26,
+      "member_count": 7,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7991801822288993,
+        "min_member_similarity": 0.6424582491448145,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.64 | 過多法律引用(7/7)",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "3   雇主應將前項檢查合格證或其影本置掛於該起重機之駕駛室或作業場所明顯處。",
+        "3   雇主應將前項檢查合格證或其影本置掛於該起重機之駕駛室或作業場所明顯處。",
+        "3   雇主應將前項檢查合格證或其影本置掛於該人字臂起重桿之作業場所明顯處。",
+        "3   雇主應將前項檢查合格證或其影本置掛於該營建用升降機之明顯位置。",
+        "3   雇主應將前項檢查合格證或其影本置掛於該營建用提升機明顯處。"
+      ]
+    },
+    {
+      "cluster_id": 25,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7732491208575728,
+        "min_member_similarity": 0.6280318437846841,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.63",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "1   雇主於鍋爐設置完成時，應向檢查機構申請竣工檢查；未經竣工檢查合格，不得使用。",
+        "2   檢查機構實施前項竣工檢查時，雇主或其指派人員應在場。",
+        "1   雇主於鍋爐竣工檢查合格後，第一次定期檢查時，應實施內、外部檢查。",
+        "1   雇主於第一種壓力容器設置完成時，應向檢查機構申請竣工檢查；未經竣工檢查合格，不得使用。",
+        "2   檢查機構實施前項竣工檢查時，雇主或其指派人員應在場。"
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7797905754431061,
+        "min_member_similarity": 0.6475718077279095,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.65",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "七、應設置於發生緊急狀況時，能使儲槽內之勞工即刻避難之設備或器材等設施。",
+        "五、應設置於發生緊急狀況時，能使儲槽內之勞工即刻避難之設備或器材等設施。",
+        "一、應設置於發生緊急事故時，能使勞工即刻避難之設備或器材等設施。",
+        "一、設置於坑道、隧道、橋梁等供勞工通行之軌道，應於適當間隔處設置避難處所。"
+      ]
+    },
+    {
+      "cluster_id": 55,
+      "member_count": 5,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7436408523681033,
+        "min_member_similarity": 0.634830079989104,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.63",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "使用鋼索或吊鏈之吊升裝置及起伏裝置，應設置過捲預防裝置。",
+        "吊鉤應設置防止吊掛用鋼索等脫落之阻擋裝置。",
+        "雇主於機械集材裝置之吊材索上，應有顯著標示或設置警報裝置，以防止過度捲揚。",
+        "使用鋼索或吊鏈之吊升裝置、起伏裝置及伸縮裝置，應設置過捲預防裝置或預防過捲警報裝置。",
+        "雇主對於營建用提升機，應於捲揚用鋼索上加註標識或設警報裝置等，以預防鋼索過捲。"
+      ]
+    },
+    {
+      "cluster_id": 40,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.684537611492662,
+        "min_member_similarity": 0.6049076967603607,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.60",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主設置之機器人，應具有發生異常時可立即停止動作並維持安全之緊急停止裝置。",
+        "雇主設置之機器人，應具有易於安全實施教導相關作業及檢查相關作業之性能。",
+        "雇主設置之機器人，除在使用上有必要之部分外，不得有凸出、銳角或齒輪之露出等危險部分。",
+        "雇主使工作者從事機器人之運轉狀況確認作業時，應在可動範圍外實施。",
+        "雇主對自動運轉之機器人，在其起動後應確認指示燈等顯示在自動運轉中。"
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "member_count": 8,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.626775207648418,
+        "min_member_similarity": 0.47010035957016916,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.47",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "二、緊急停止裝置用開關，應為易操作之構造，且應設在易操作之位置，並應設置紅色標示。",
+        "人之運轉，除使工作者攜帶安全栓外，應在啟動開關處作禁止觸動之標示。",
+        "丁類物質之漏洩，應明顯標示開閉方向。",
+        "二、為防止對閥、旋塞或開關等之誤操作，應明顯標示開閉方向。",
+        "二、應於顯而易見之處所標示配管內之惰性氣體名稱及開閉方向，以防誤操作。"
+      ]
+    },
+    {
+      "cluster_id": 33,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.8843023564671738,
+        "min_member_similarity": 0.836892853859378,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": " | 過多法律引用(3/3)",
+        "review_priority": "low",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "4   雇主依第二項規定設置之局部排氣裝置，於改裝時，應依前二項規定辦理。",
+        "4   雇主依第二項規定設置之局部排氣裝置，於改裝時，應依前二項規定辦理。",
+        "5   雇主依第二項規定設置之局部排氣裝置，於改裝時，應依第二項及第三項規定辦理。"
+      ]
+    },
+    {
+      "cluster_id": 41,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7047289133511038,
+        "min_member_similarity": 0.6579691500005771,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "平均相似度偏低: 0.70",
+        "review_priority": "medium",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主供勞工使用之鏈鋸應有防振裝置，油壓式伐木機應有堅固之頂篷。",
+        "雇主僱用勞工從事造材作業時，為避免其因伐倒木滾落、滑動等危害，應採取固定防護措施。",
+        "雇主對於金屬、塑膠等加工用之圓盤鋸，應設置鋸齒接觸預防裝置。",
+        "雇主對於木材加工用帶鋸鋸齒（鋸切所需之部分及鋸床除外）及帶輪，應設置護罩或護圍等設備。"
+      ]
+    },
+    {
+      "cluster_id": 46,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7127246721784654,
+        "min_member_similarity": 0.5711043703808206,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.57",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "為防止火災，雇主於貯木場應嚴禁煙火，並不得堆存易燃材料及危險化學物品等。",
+        "雇主對於勞工吸菸、使用火爐或其他用火之場所，應設置預防火災所需之設備。",
+        "雇主應依工作場所之危害性，設置必要之職業災害搶救器材。",
+        "1   為防止火災、中毒等災害，雇主應於工作場所設置救生索及特殊防護具。"
+      ]
+    },
+    {
+      "cluster_id": 49,
+      "member_count": 8,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6954357341467892,
+        "min_member_similarity": 0.592510379989614,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.59",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於從事山區作業勞工，應供給安全帽，並使勞工確實使用。",
+        "雇主對於進入營繕工程工作場所作業人員，應提供適當安全帽，並使其正確戴用。",
+        "雇主應提供給從事瀝青作業所必須之防護具，並使勞工確實使用。",
+        "雇主使勞工從事附表一丙欄所列之作業時，應提供並令該作業勞工使用適當之呼吸防護具。",
+        "雇主應確保上述規定在所有相關電氣設備的設置中得到嚴格遵守，以保障工作人員的安全。"
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "member_count": 5,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6452389344790717,
+        "min_member_similarity": 0.4662628323991876,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.47",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "手推刨床應設置遮斷動力時，可使旋轉中刀軸停止之制動裝置。",
+        "1   手推刨床應設置不離開作業位置即可操作之動力遮斷裝置。",
+        "圓盤鋸應設置遮斷動力時可使旋轉中圓鋸軸停止之制動裝置。",
+        "圓盤鋸應設置可固定圓鋸軸之裝置，以防止更換圓鋸片時，因圓鋸軸之旋轉引起之危害。",
+        "1   研磨機應設置不離開作業位置即可操作之動力遮斷裝置。"
+      ]
+    },
+    {
+      "cluster_id": 15,
+      "member_count": 7,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6637929656552716,
+        "min_member_similarity": 0.5528442994560493,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.55",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "一、工作場所之周圍應設置固定式圍籬，並於明顯位置裝設警告標示。",
+        "倉庫內應設必要之警告標示、護圍及防火設備。",
+        "一、貯存場所應有適當之警戒標示，禁止煙火接近。",
+        "事業場所應有明確之境界線，並於該場所外面設置容易辨識之警戒標示。",
+        "一、容器放置場應明確標示，且於外面明顯處所設置警戒標示。"
+      ]
+    },
+    {
+      "cluster_id": 35,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6964775277892443,
+        "min_member_similarity": 0.6365775489410306,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.64",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "一、因屋頂斜度、屋面性質或天候等因素，致勞工有墜落、滾落之虞者，應採取適當安全措施。",
+        "危害勞工，應採取地盤改良及構造物保護等有效之預防設施。",
+        "一、拆除作業中或勞工須於作業場所行走時，應採取防止人體墜落及物體飛落之措施。",
+        "應採上鎖或設置標示等措施，並設置防止落下物導致危害勞工之安全設備與措施。",
+        "2   為防止由前項開口部份與可動部份之接觸而危害勞工之虞，雇主應有護圍等之設備。"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6263303483281346,
+        "min_member_similarity": 0.5422077939999438,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.54",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "六、安全網於攔截勞工或重物後應即測試，其防墜性能不符第一款之規定時，應即更換。",
+        "七、張掛安全網之作業勞工應在適當防墜設施保護之下，始可進行作業。",
+        "邊下方，有勞工工作或通行之各段，應裝設堅固適當之圍柵或護網。"
+      ]
+    },
+    {
+      "cluster_id": 36,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6723651948958075,
+        "min_member_similarity": 0.5107642746530815,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.51",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於置放於高處，位能超過十二公斤‧公尺之物件有飛落之虞者，應予以固定之。",
+        "雇主對於放置各類物料之構造物或平臺，應具安全之負荷強度。",
+        "雇主對於施工架及施工構臺，應經常予以適當之保養並維持各部分之牢穩。",
+        "雇主對於建築構造物及其附置物，應保持安全穩固，以防止崩塌等危害。"
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6593169684630421,
+        "min_member_similarity": 0.5309151035512122,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.53",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "1   雇主不得使勞工以投擲之方式運送任何物料。",
+        "1   雇主不得使勞工從事製造、處置或使用甲類物質。",
+        "1   雇主應於製造、處置或使用乙類物質或丙類物質之作業場所以外之場所設置休息室。"
+      ]
+    },
+    {
+      "cluster_id": 51,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7366673669935265,
+        "min_member_similarity": 0.6857025778297983,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "平均相似度偏低: 0.74",
+        "review_priority": "medium",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主不得使勞工在施工架上使用梯子、合梯或踏凳等從事作業。",
+        "雇主應禁止勞工攀登運轉中之立式車床、龍門刨床等之床台。",
+        "2   雇主不得使勞工以合梯當作二工作面之上下設備使用，並應禁止勞工站立於頂板作業。",
+        "雇主於吊籠之工作台上，不得設置或放置腳墊、梯子等供勞工使用。"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6193776994968314,
+        "min_member_similarity": 0.4681062463589918,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.47",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "五、應設置排水設備，隨時排除地面水及地下水。",
+        "七、應設置充分供應清潔水質之洗手設備。",
+        "一、刺激物、腐蝕性物質或毒性物質污染之工作場所，每十五人應設置一個冷熱水沖淋設備。",
+        "二、刺激物、腐蝕性物質或毒性物質污染之工作場所，每五人應設置一個冷熱水盥洗設備。"
+      ]
+    },
+    {
+      "cluster_id": 29,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.5816246240910102,
+        "min_member_similarity": 0.4118096158974764,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.41",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主使勞工從事露天開挖作業，為防止土石崩塌，應指定專人，於作業現場辦理下列事項。",
+        "使勞工進入開挖面作業者，應設擋土支撐。",
+        "雇主對於供作擋土支撐之材料，不得有顯著之損傷、變形或腐蝕。",
+        "雇主對於設置擋土支撐之工作場所，必要時應置備加強、修補擋土支撐工程用材料與器材。",
+        "雇主對於供作模板支撐之材料，不得有明顯之損壞、變形或腐蝕。"
+      ]
+    },
+    {
+      "cluster_id": 27,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7044568256969347,
+        "min_member_similarity": 0.6173620428285744,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.62",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主僱用勞工於採光不良之場所從事露天開挖作業，應裝設作業安全所必需之照明設備。",
+        "雇主使勞工從事第三條第六款，第七款規定之作業，如採用發光背景時，應使光度均勻。",
+        "此外，雇主應注意採光及照明的要求，以確保工作環境的安全與舒適。",
+        "雇主使用吊籠作業時，於夜間或光線不良之場所，應提供安全作業所必要之照度。"
+      ]
+    },
+    {
+      "cluster_id": 37,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6955450381339289,
+        "min_member_similarity": 0.6180030996131984,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.62",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於隧道、坑道之支撐，如有腳部下沉、滑動之虞，應襯以墊板、座鈑等措施。",
+        "雇主於拆除承受有荷重之隧道、坑道支撐之構材時，應先採取荷重移除措施。",
+        "雇主應使隧道、坑道模板支撐，具有承受負荷之堅固構造。",
+        "雇主為防止坑內落磐、落石或側壁崩塌等對勞工之危害，應設置支撐或清除浮石等。"
+      ]
+    },
+    {
+      "cluster_id": 53,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7441556450613457,
+        "min_member_similarity": 0.7268736968666467,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "平均相似度偏低: 0.74",
+        "review_priority": "medium",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於基樁設備等施工設備之捲揚機，應設固定夾或金屬擋齒等剎車裝置。",
+        "雇主對於基樁等施工設備，應能充分抗振，且各部份結合處應安裝牢固。",
+        "雇主對於基樁等施工設備之捲揚裝置，當其捲胴上鋼纜發生亂股時，不得在鋼纜上加以荷重。",
+        "雇主對於以基樁等施工設備吊升樁時，其懸掛部份應吊升於環槽滑輪或滑車裝置之正下方。"
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6288062995936889,
+        "min_member_similarity": 0.4948001001296575,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.49",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "五、工作車、節塊推進時，應設置防止人員進入推進路線下方之設施。",
+        "六、工作車應設置制動停止裝置。",
+        "八、為防止因鋼索斷裂及超速危險，應設置緊急停車裝置。",
+        "七、應設置漏洩及地震偵測自動緊急遮斷裝置。"
+      ]
+    },
+    {
+      "cluster_id": 38,
+      "member_count": 8,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6730730524060912,
+        "min_member_similarity": 0.5623321523452487,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.56",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "1   雇主對構造物拆除區，應設置勞工安全出入通路，如使用樓梯者，應設置扶手。",
+        "雇主應使勞工使用依規定設置之通道，進行裝卸作業；不得任其通行於不安全之通道。",
+        "雇主設置之安全門及安全梯於勞工工作期間內不得上鎖，其通道不得堆置物品。",
+        "雇主對勞工於橫隔兩地之通行時，應設置扶手、踏板、梯等適當之通行設備。",
+        "一、如作業地點高差在一．五公尺以上時，應設置使從事作業之勞工能安全上下之設備。"
+      ]
+    },
+    {
+      "cluster_id": 22,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7051243563067584,
+        "min_member_similarity": 0.5546124102276294,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.55 | 過多法律引用(3/3)",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "2   雇主對設置前項自動警報裝置有顯著困難時，應置監視人於設備之運轉中從事監視工作。",
+        "3. 雇主應根據前述第二款及第三款的規定，要求起重機操作人員監督搭乘人員確實執行相關措施。",
+        "3   雇主應依前項第二款及第三款規定，要求起重機操作人員，監督搭乘人員確實辦理。"
+      ]
+    },
+    {
+      "cluster_id": 54,
+      "member_count": 9,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7203015973099486,
+        "min_member_similarity": 0.5221241036269788,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.52",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "在未確認不危害勞工之前，雇主應於顯明易見之處，揭示「禁止進入」之標示。",
+        "雇主應禁止與作業無關人員進入下列作業場所，並標示於顯明易見之處。",
+        "雇主應嚴禁與工作無關人員進入再壓室及其操作場所，並將有關禁止事項揭示於勞工易見之處所。",
+        "雇主應嚴禁與工作無關人員進入減壓艙及操作區域，並將有關安全須知揭示於勞工易見之處所。",
+        "雇主應公告粉塵作業場所禁止飲食或吸菸，並揭示於明顯易見之處所。"
+      ]
+    },
+    {
+      "cluster_id": 39,
+      "member_count": 5,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6802751630032134,
+        "min_member_similarity": 0.5055138175600399,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.51",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "3   雇主於勞工進入前項規定之休息室之前，應使其將附著物清除。",
+        "2   雇主應使勞工於進入休息室前，將附著於工作衣上之鉛塵適當清除。",
+        "3   前項規定，雇主應揭示於勞工顯而易見之處所。",
+        "雇主使勞工從事粉狀之鉛、鉛混存物或燒結礦混存物之處理作業者，應設置淋浴設備。",
+        "雇主使勞工從事鉛作業時，應設置專用洗衣設備，供勞工於必要時，洗滌附著於工作衣上之鉛塵。"
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6609864574888052,
+        "min_member_similarity": 0.6296901833301405,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.63",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主不得使勞工使用石綿或含有石綿佔其重量超過百分之一之混合物（以下簡稱石綿等。",
+        "1   雇主使勞工從事下列之一作業時，應將石綿等加以濕潤。",
+        "2   雇主應於前項作業場所設置收容石綿等之切屑所必要之有蓋容器。"
+      ]
+    },
+    {
+      "cluster_id": 19,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7416851697351513,
+        "min_member_similarity": 0.6237740362749986,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.62 | 過多法律引用(3/4)",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "（四）在燻蒸終止並開啟門扉後，若讓勞工進入該場所或同一倉庫未曾燻蒸的場所，應事先測定該倉庫或貨櫃的燻蒸場所或未曾燻蒸場所的空氣中氰化氫或溴甲烷濃度；未曾燻蒸場所的測定應在該場所外進行。",
+        "（三）在確認勞工不會被溴甲烷等污染之前，應禁止勞工進入穀倉，並將此意旨揭示於顯眼處。",
+        "（六）拆除帳幕後，若讓勞工進入燻蒸場所或鄰近的居住室，應測定各該場所空氣中氰化氫或溴甲烷的濃度，測定人員應在各該場所外操作。",
+        "（三）拆除遮布後，若讓勞工進入燻蒸場所或鄰近的居住室，應測定各該場所空氣中氰化氫或溴甲烷的濃度；測定時應讓測定人員佩戴輸氣防護具，並在各該場所外操作。"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.8046535333849416,
+        "min_member_similarity": 0.6472495724425026,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.65",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主使勞工於作業室內從事高壓室內作業時，其每一勞工占有之氣積應在四立方公尺以上。",
+        "每一勞工原則上應有十立方公尺以上之空間。",
+        "1. 當工作場所每一勞工所佔的空間未滿五點七立方公尺時，每分鐘每一勞工所需的新鮮空氣應至少為零點六立方公尺。",
+        "2. 當工作場所每一勞工所佔的空間在五點七立方公尺以上但未滿十四點二立方公尺時，每分鐘每一勞工所需的新鮮空氣應至少為零點四立方公尺。",
+        "3. 當工作場所每一勞工所佔的空間在十四點二立方公尺以上但未滿二十八點三立方公尺時，每分鐘每一勞工所需的新鮮空氣應至少為零點三立方公尺。"
+      ]
+    },
+    {
+      "cluster_id": 16,
+      "member_count": 7,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6204382994815761,
+        "min_member_similarity": 0.33808688940276205,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.34",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主使勞工從事潛水作業，作業現場應設置救援潛水員一名。",
+        "1   雇主使勞工從事潛水作業時，應供給下潛或上浮使用之安全索，並監督勞工確實使用。",
+        "1   雇主實施潛水作業所需之呼吸供氣，不得使用純氧。",
+        "二、與操作供氣設備之勞工密切連繫，供應潛水作業勞工所必要之空氣。",
+        "三、因供氣設備發生故障或其他異常致有危害潛水作業勞工之虞時，應立即與該勞工連繫。"
+      ]
+    },
+    {
+      "cluster_id": 23,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6866064223768219,
+        "min_member_similarity": 0.6348356863513172,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.63",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "貨艙、甲板或陸上裝卸作業時，雇主應禁止勞工進入吊舉物下方及其他有發生危害之虞之區域。",
+        "雇主於船舶甲板從事裝卸作業，有物料移位、倒塌之虞時，應妥為固定或採取其他安全措施。",
+        "雇主對解體船甲板上臨時切割之洞口或艙口，應設圍欄、擋板或以堅固之蓋板覆蓋。"
+      ]
+    },
+    {
+      "cluster_id": 20,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.5952826956998516,
+        "min_member_similarity": 0.3976486943912233,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.40",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "一、附圖甲區之溫濕作業環境者，雇主應充分供應勞工清潔之飲用水及食鹽。",
+        "三、附圖丙區之溫濕作業環境者，雇主應使勞工停止作業。",
+        "雇主應於適當場所充分供應勞工清潔之飲用水。",
+        "雇主對於供應勞工之餐食，應保持清潔並注意營養。"
+      ]
+    },
+    {
+      "cluster_id": 18,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6956049863669712,
+        "min_member_similarity": 0.5941128091698753,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.59",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主應於坑外適當場所設置更衣櫃、盥洗設備及浴室。",
+        "雇主對坑內作業場所，每週應確認其通風量一次以上，並採必要之措施。",
+        "雇主對坑內或儲槽內部作業，應設置適當之機械通風設備。"
+      ]
+    },
+    {
+      "cluster_id": 28,
+      "member_count": 5,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6746828451672895,
+        "min_member_similarity": 0.5246406245905035,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.52 | 過多法律引用(5/5)",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主使勞工從事缺氧危險作業時，對進出各該場所勞工，應予確認或點名登記。",
+        "雇主使勞工從事缺氧危險或局限空間作業時，應使該勞工就其作業有關事項實施檢點。",
+        "雇主使勞工從事林場作業時，應使該勞工就其作業有關事項實施檢點。",
+        "雇主使勞工從事船舶清艙解體作業時，應使該勞工就其作業有關事項實施檢點。",
+        "雇主使勞工從事碼頭裝卸作業時，應使該勞工就其作業有關事項實施檢點。"
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.674253423422742,
+        "min_member_similarity": 0.6045725365851089,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.60 | 過多法律引用(3/3)",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "2   自營作業者擔任前項各款之操作或作業人員，應於事前接受前項所定職類之安全衛生教育訓練。",
+        "2   勞工對於前項安全衛生工作守則，應切實遵行。",
+        "2   前項人員，雇主應使其接受安全衛生教育訓練。"
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.669561170299052,
+        "min_member_similarity": 0.6027468480256105,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.60",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "應參照中央主管機關公告之相關指引，建立安全衛生教育訓練自主管理制度。",
+        "但營造業之事業單位，應由曾受營造業職業安全衛生業務主管教育訓練者選任之。",
+        "應及消費作業主管安全衛生教育訓練。"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7943424376239477,
+        "min_member_similarity": 0.6423255174669953,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.64",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "一、第一類事業之事業單位勞工人數在一百人以上者，應設直接隸屬雇主之專責一級管理單位。",
+        "二、第二類事業勞工人數在三百人以上者，應設直接隸屬雇主之一級管理單位。",
+        "位勞工人數在三百人以上者，所置管理人員應至少一人為專職。",
+        "一、第一類事業勞工人數在五百人以上者，應設直接隸屬雇主之專責一級管理單位。",
+        "二、第二類事業勞工人數在五百人以上者，應設直接隸屬雇主之一級管理單位。"
+      ]
+    },
+    {
+      "cluster_id": 56,
+      "member_count": 10,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7698373142499731,
+        "min_member_similarity": 0.6017706068835843,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.60 | 過多法律引用(6/10)",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對一般車輛，應每三個月就車輛各項安全性能定期實施檢查一次。",
+        "1   雇主對車輛系營建機械，應每年就該機械之整體定期實施檢查一次。",
+        "1   雇主對堆高機，應每年就該機械之整體定期實施檢查一次。",
+        "1   雇主對固定式起重機，應每年就該機械之整體定期實施檢查一次。",
+        "2   雇主對前項之固定式起重機，應每月依下列規定定期實施檢查一次。"
+      ]
+    },
+    {
+      "cluster_id": 52,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.6820973180728395,
+        "min_member_similarity": 0.5665322886455102,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.57",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對高空工作車，應於每日作業前就其制動裝置、操作裝置及作業裝置之性能實施檢點。",
+        "雇主對於荷重在一公噸以上之堆高機，應指派經特殊作業安全衛生教育訓練人員操作。",
+        "雇主對於高空工作車，應指派經特殊作業安全衛生教育訓練人員操作。"
+      ]
+    },
+    {
+      "cluster_id": 58,
+      "member_count": 6,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7546541413028774,
+        "min_member_similarity": 0.6211321766742981,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.62",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於起重機具之吊鉤或吊具，應有防止吊舉中所吊物體脫落之裝置。",
+        "1   雇主對於人字臂起重桿之使用，不得超過額定荷重。",
+        "雇主對於人字臂起重桿之吊升裝置及起伏裝置，應設過捲預防裝置。",
+        "雇主對於人字臂起重桿之使用，以吊物為限，不得乘載或吊升勞工從事作業。",
+        "1   雇主對於人字臂起重桿之吊升裝置及起伏裝置，應設控制荷重或吊桿下降所必要之制動裝置。"
+      ]
+    },
+    {
+      "cluster_id": 47,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7174818972156278,
+        "min_member_similarity": 0.6340295823348723,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.63",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於鍋爐及壓力容器設備及有關措施，應依鍋爐及壓力容器有關安全規則之規定辦理。",
+        "雇主對於高壓氣體之製造、儲存、消費等，應依高壓氣體設備及容器有關安全規則之規定辦理。",
+        "雇主對於高壓氣體之廢棄，應防止火災爆炸或中毒之危害。"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7176384434507127,
+        "min_member_similarity": 0.6733146846230237,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "平均相似度偏低: 0.72",
+        "review_priority": "medium",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於車輛於軌道上有滑走之虞時，應設置防止滑走之裝置。",
+        "雇主對行駛於軌道之動力車，應設置手煞車，十公噸以上者，應增設動力煞車。",
+        "雇主對於傾斜在千分之十以上之軌道區使用之手推車，應設置有效之煞車。"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.727522750948317,
+        "min_member_similarity": 0.6025558998282824,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.60",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "三、使用內燃機者，應設置標示潤滑油壓力之指示器。",
+        "五、壓力表或水高計之刻度板上，應明顯標示最高使用壓力之位置。",
+        "三、壓力表之刻度板上，應明顯標示最高使用壓力之位置。"
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "member_count": 3,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.8200832426668434,
+        "min_member_similarity": 0.769746282011824,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": " | 過多法律引用(2/3)",
+        "review_priority": "low",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主對於從事火藥爆破作業，應指派經火藥爆破特殊安全衛生教育、訓練之人員擔任。",
+        "一、指示從事該作業勞工之退避場所及應經路線。",
+        "一、指示從事該作業勞工之退避場所及應經路線。"
+      ]
+    },
+    {
+      "cluster_id": 50,
+      "member_count": 5,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7212177012185794,
+        "min_member_similarity": 0.571509908491807,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.57",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "雇主為防止勞工暴露於強烈噪音之工作場所，應置備耳塞、耳罩等防護具，並使勞工確實戴用。",
+        "若勞工的八小時平均音壓級超過八十五分貝或暴露劑量超過百分之五十，雇主應要求勞工佩戴有效的耳塞、耳罩等防音防護具。",
+        "勞工暴露的噪音音壓級及其對應的工作日容許暴露時間如下：當音壓級為九十分貝時，容許暴露時間為八小時；九十二分貝時為六小時；九十五分貝時為四小時；九十七分貝時為三小時；一百分貝時為二小時；一百零五分貝時為一小時；一百一十分貝時為半小時；一百一十五分貝時為四分之一小時。",
+        "在測定勞工八小時平均音壓級時，應將八十分貝以上的噪音以增加五分貝降低容許暴露時間一半的方式納入計算。",
+        "根據第300-1條，雇主對於勞工八小時平均音壓級超過八十五分貝或暴露劑量超過百分之五十的工作場所，應採取以下聽力保護措施，並作成執行紀錄留存三年：進行噪音監測及暴露評估、噪音危害控制、防音防護具的選用及佩戴、聽力保護教育訓練、健康檢查及管理，以及成效評估及改善。"
+      ]
+    },
+    {
+      "cluster_id": 45,
+      "member_count": 4,
+      "quality": {
+        "silhouette_score": 0.0,
+        "avg_intra_similarity": 0.7429174848660836,
+        "min_member_similarity": 0.6402793959141546,
+        "is_singleton": false,
+        "is_noise": false,
+        "needs_review": true,
+        "review_reason": "內部異質性過高:最小相似度僅 0.64",
+        "review_priority": "high",
+        "active_learning_score": null
+      },
+      "sample_members": [
+        "1   雇主對於受生物病原體污染之物品，應予以消毒、殺菌等適當處理，以避免勞工感染疾病。",
+        "1   雇主對於有害物、生物病原體或受其污染之物品，應妥為儲存，並加警告標示。",
+        "雇主對於勞工工作場所之底板、周圍牆壁、容器等有被生物病原體污染之虞者，應予適當消毒。",
+        "1   雇主對於受有害物或具有惡臭物污染之場所，應予適當之清洗。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "generated_at": "2025-11-17T08:51:08.616163",
+  "total_low_confidence": 1,
+  "confidence_threshold": 0.75,
+  "priority_distribution": {
+    "critical": 1
+  },
+  "review_instructions": "請人工審核以下低信心度分類,確認或修正控制類型。優先處理 CRITICAL 和 HIGH 項目。",
+  "classifications": [
+    {
+      "cluster_id": "56",
+      "control_type": "AdministrativeControl",
+      "confidence": 0.8833333333333334,
+      "evidence": {
+        "keywords_matched": [
+          "檢查",
+          "定期實施"
+        ],
+        "decision_rule_id": "1",
+        "decision_rule_name": "定期檢查機械",
+        "rule_similarity_score": 0.85,
+        "confidence_factors": {
+          "keyword_match_strength": 0.9,
+          "context_clarity": 0.8,
+          "domain_alignment": 0.95
+        },
+        "alternative_classifications": [],
+        "text_snippets": [
+          "雇主對一般車輛，應每三個月就車輛各項安全性能定期實施檢查一次。",
+          "雇主對車輛系營建機械，應每年就該機械之整體定期實施檢查一次。",
+          "雇主對堆高機，應每年就該機械之整體定期實施檢查一次。",
+          "雇主對固定式起重機，應每年就該機械之整體定期實施檢查一次。",
+          "雇主對前項之固定式起重機，應每月依下列規定定期實施檢查一次。"
+        ],
+        "extracted_events": []
+      },
+      "sample_obligations": [
+        "雇主對一般車輛，應每三個月就車輛各項安全性能定期實施檢查一次。",
+        "1   雇主對車輛系營建機械，應每年就該機械之整體定期實施檢查一次。",
+        "1   雇主對堆高機，應每年就該機械之整體定期實施檢查一次。"
+      ],
+      "active_learning_score": {
+        "uncertainty_score": 0.11666666666666659,
+        "impact_score": 0.2,
+        "frequency_score": 0.3333333333333333,
+        "complexity_score": 0.1486946843482912,
+        "total_priority": 0.18980420265224365
+      },
+      "review_priority": "critical"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "generated_at": "2025-11-17T09:57:01.282828",
+  "version": "v5.0",
+  "improvements": [
+    "葉聚類 (Leaf Clustering)",
+    "提示詞鏈 (Prompt Chaining)",
+    "語意實體連結 (Semantic Entity Linking)",
+    "摘要邏輯修正 - 檢查所有佇列"
+  ],
+  "review_queues": {
+    "low_confidence_classifications": {
+      "count": 1,
+      "file": "review_queue/low_confidence_classifications_queue.json",
+      "priority_distribution": {
+        "critical": 1
+      }
+    },
+    "problematic_clusters": {
+      "count": 50,
+      "file": "review_queue/problematic_clusters_queue.json",
+      "priority_distribution": {
+        "low": 50
+      }
+    }
+  },
+  "thresholds": {
+    "confidence_threshold": 0.75,
+    "min_cluster_size": 2,
+    "hdbscan_min_cluster_size": 3,
+    "hdbscan_cluster_selection": "leaf"
+  },
+  "recommendations": [
+    {
+      "priority": "critical",
+      "action": "立即審核關鍵項目",
+      "description": "有 1 個項目被標記為 CRITICAL 優先級",
+      "details": {
+        "from_clusters": 0,
+        "from_classifications": 1
+      },
+      "next_steps": "這些項目影響核心法規解釋,必須優先處理"
+    }
+  ],
+  "v5_statistics": {
+    "total_rules_defined": 12,
+    "rules_with_embeddings": 12,
+    "ontology_entities_with_embeddings": 17,
+    "obligations_with_context": 62,
+    "semantic_matched_rules": 53,
+    "cluster_selection_method": "leaf",
+    "total_review_items": 51,
+    "priority_consistency": "優先級邏輯已統一,摘要與佇列100%一致"
+  }
+}

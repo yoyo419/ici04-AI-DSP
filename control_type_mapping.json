@@ -1,0 +1,1784 @@
+{
+  "24": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "監測計畫",
+        "通報",
+        "監測結果報告",
+        "公開揭示"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主於實施監測十五日前，應將監測計畫依中央主管機關公告之網路登錄系統及格式，實施通報。",
+        "雇主應於採樣或測定後四十五日內完成監測結果報告，通報至中央主管機關指定之資訊系統。",
+        "雇主對於前項監測計畫及監測結果，應公開揭示，並通報中央主管機關。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:45:14.679588",
+    "human_feedback": null
+  },
+  "43": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "監測",
+        "安全衛生教育訓練"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主依前二條訂定監測計畫，實施作業環境監測時，應會同職業安全衛生人員及勞工代表實施。",
+        "雇主對擔任施工安全評估之勞工，應於事前使其接受施工安全評估人員之安全衛生教育訓練。",
+        "雇主對擔任製程安全評估之勞工，應於事前使其接受製程安全評估人員之安全衛生教育訓練。",
+        "雇主對工作場所急救人員，應使其接受急救人員之安全衛生教育訓練。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:45:17.998694",
+    "human_feedback": null
+  },
+  "44": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "標示",
+        "安全資料表",
+        "必要措施"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "製造者、輸入者或供應者提供危害性化學品與事業單位或自營作業者前，應於容器上予以標示。",
+        "雇主對含有危害性化學品或符合附表三規定之每一化學品，應依附表四提供勞工安全資料表。",
+        "雇主對於具有危害性之化學品，應予標示、製備清單及揭示安全資料表，並採取必要之通識措施。",
+        "雇主使勞工使用危險物從事作業前，應確認所使用物質之危險性，採取預防之必要措施。",
+        "雇主使勞工使用有害物從事作業前，應確認所使用物質之危害性，採取預防危害之必要措施。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:45:24.850911",
+    "human_feedback": null
+  },
+  "26": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "檢查合格證",
+        "置掛",
+        "明顯處"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主應將前項檢查合格證或其影本置掛於該起重機之駕駛室或作業場所明顯處。",
+        "雇主應將前項檢查合格證或其影本置掛於該人字臂起重桿之作業場所明顯處。",
+        "雇主應將前項檢查合格證或其影本置掛於該營建用升降機之明顯位置。",
+        "雇主應將前項檢查合格證或其影本置掛於該營建用提升機明顯處。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:45:29.763380",
+    "human_feedback": null
+  },
+  "25": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "雇主",
+        "檢查機構",
+        "申請",
+        "竣工檢查",
+        "定期檢查"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主於鍋爐設置完成時，應向檢查機構申請竣工檢查；未經竣工檢查合格，不得使用。",
+        "檢查機構實施前項竣工檢查時，雇主或其指派人員應在場。",
+        "雇主於鍋爐竣工檢查合格後，第一次定期檢查時，應實施內、外部檢查。",
+        "雇主於第一種壓力容器設置完成時，應向檢查機構申請竣工檢查；未經竣工檢查合格，不得使用。",
+        "檢查機構實施前項竣工檢查時，雇主或其指派人員應在場。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:45:42.414845",
+    "human_feedback": null
+  },
+  "14": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "避難",
+        "設備",
+        "器材",
+        "設置"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "應設置於發生緊急狀況時，能使儲槽內之勞工即刻避難之設備或器材等設施。",
+        "設置於坑道、隧道、橋梁等供勞工通行之軌道，應於適當間隔處設置避難處所。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:45:47.339218",
+    "human_feedback": null
+  },
+  "30": {
+    "classification": "EngineeringControl",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "局部排氣裝置",
+        "密閉設備",
+        "整體換氣裝置"
+      ],
+      "decision_rule_id": "RULE_ENG_02",
+      "decision_rule_name": "通風與換氣規則",
+      "rule_similarity_score": 0.564,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主設置之密閉設備、局部排氣裝置或整體換氣裝置，應由專業人員妥為設計，並維持其性能。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:45:59.410326",
+    "human_feedback": null
+  },
+  "55": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "過捲預防裝置",
+        "阻擋裝置",
+        "警報裝置",
+        "標示"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "使用鋼索或吊鏈之吊升裝置及起伏裝置，應設置過捲預防裝置。",
+        "吊鉤應設置防止吊掛用鋼索等脫落之阻擋裝置。",
+        "雇主於機械集材裝置之吊材索上，應有顯著標示或設置警報裝置，以防止過度捲揚。",
+        "使用鋼索或吊鏈之吊升裝置、起伏裝置及伸縮裝置，應設置過捲預防裝置或預防過捲警報裝置。",
+        "雇主對於營建用提升機，應於捲揚用鋼索上加註標識或設警報裝置等，以預防鋼索過捲。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:46:06.315014",
+    "human_feedback": null
+  },
+  "48": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "過負荷預防裝置",
+        "警告裝置"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "伸臂起重機，應設置過負荷預防裝置。",
+        "移動式起重機，應設置過負荷預防裝置。",
+        "移動式起重機，應設置電鈴、警鳴器等警告裝置。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:46:16.973297",
+    "human_feedback": null
+  },
+  "40": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:46:24.273610",
+    "human_feedback": null
+  },
+  "9": {
+    "classification": "EngineeringControl",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "安全裝置",
+        "標示",
+        "開關",
+        "操作"
+      ],
+      "decision_rule_id": "RULE_ENG_03",
+      "decision_rule_name": "安全裝置規則",
+      "rule_similarity_score": 0.562,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "緊急停止裝置用開關，應為易操作之構造，且應設在易操作之位置，並應設置紅色標示。",
+        "應於顯而易見之處所標示配管內之惰性氣體名稱及開閉方向，以防誤操作。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:46:28.229646",
+    "human_feedback": null
+  },
+  "34": {
+    "classification": "EngineeringControl",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "通風",
+        "換氣",
+        "局部排氣裝置",
+        "整體換氣裝置"
+      ],
+      "decision_rule_id": "RULE_ENG_02",
+      "decision_rule_name": "通風與換氣規則",
+      "rule_similarity_score": 0.569,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主設置有空氣清淨裝置之局部排氣裝置，其排氣機應置於空氣清淨裝置後之位置。",
+        "雇主設置之局部排氣裝置、吹吸型換氣裝置或整體換氣裝置，於有機溶劑作業時，不得停止運轉。",
+        "雇主設置局部排氣裝置之排氣機，應置於空氣清淨裝置後之位置。",
+        "雇主設置之局部排氣裝置或整體換氣裝置，於鉛作業時不得停止運轉。",
+        "雇主設置之局部排氣裝置或整體換氣裝置之處所，不得阻礙其排氣或換氣功能。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:46:34.931403",
+    "human_feedback": null
+  },
+  "33": {
+    "classification": "EngineeringControl",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "局部排氣裝置",
+        "通風",
+        "換氣"
+      ],
+      "decision_rule_id": "RULE_ENG_02",
+      "decision_rule_name": "通風與換氣規則",
+      "rule_similarity_score": 0.56,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主依第二項規定設置之局部排氣裝置，於改裝時，應依前二項規定辦理。",
+        "雇主依第二項規定設置之局部排氣裝置，於改裝時，應依前二項規定辦理。",
+        "雇主依第二項規定設置之局部排氣裝置，於改裝時，應依第二項及第三項規定辦理。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:46:40.226505",
+    "human_feedback": null
+  },
+  "41": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:46:46.775333",
+    "human_feedback": null
+  },
+  "46": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "防止火災",
+        "設置",
+        "工作場所"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "為防止火災，雇主於貯木場應嚴禁煙火，並不得堆存易燃材料及危險化學物品等。",
+        "雇主對於勞工吸菸、使用火爐或其他用火之場所，應設置預防火災所需之設備。",
+        "雇主應依工作場所之危害性，設置必要之職業災害搶救器材。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:46:49.785265",
+    "human_feedback": null
+  },
+  "49": {
+    "classification": "PPE",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "安全帽",
+        "防護具",
+        "呼吸防護具"
+      ],
+      "decision_rule_id": "RULE_PPE_01",
+      "decision_rule_name": "頭部防護規則",
+      "rule_similarity_score": 0.507,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於從事山區作業勞工，應供給安全帽，並使勞工確實使用。",
+        "雇主對於進入營繕工程工作場所作業人員，應提供適當安全帽，並使其正確戴用。",
+        "雇主應提供給從事瀝青作業所必須之防護具，並使勞工確實使用。",
+        "雇主使勞工從事附表一丙欄所列之作業時，應提供並令該作業勞工使用適當之呼吸防護具。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:46:57.407473",
+    "human_feedback": null
+  },
+  "13": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:47:05.179391",
+    "human_feedback": null
+  },
+  "15": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "警告標示",
+        "警戒標示"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "工作場所之周圍應設置固定式圍籬，並於明顯位置裝設警告標示。",
+        "倉庫內應設必要之警告標示、護圍及防火設備。",
+        "貯存場所應有適當之警戒標示，禁止煙火接近。",
+        "事業場所應有明確之境界線，並於該場所外面設置容易辨識之警戒標示。",
+        "容器放置場應明確標示，且於外面明顯處所設置警戒標示。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:10.008428",
+    "human_feedback": null
+  },
+  "35": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "安全措施",
+        "防止人體墜落",
+        "防止落下物"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "因屋頂斜度、屋面性質或天候等因素，致勞工有墜落、滾落之虞者，應採取適當安全措施。",
+        "應採上鎖或設置標示等措施，並設置防止落下物導致危害勞工之安全設備與措施。",
+        "為防止由前項開口部份與可動部份之接觸而危害勞工之虞，雇主應有護圍等之設備。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:13.638123",
+    "human_feedback": null
+  },
+  "3": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "安全網",
+        "防墜性能",
+        "圍柵",
+        "護網"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "安全網於攔截勞工或重物後應即測試，其防墜性能不符第一款之規定時，應即更換。",
+        "邊下方，有勞工工作或通行之各段，應裝設堅固適當之圍柵或護網。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:18.334990",
+    "human_feedback": null
+  },
+  "36": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "固定",
+        "安全之負荷強度",
+        "保養",
+        "牢穩",
+        "安全穩固"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.9,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於置放於高處，位能超過十二公斤‧公尺之物件有飛落之虞者，應予以固定之。",
+        "雇主對於放置各類物料之構造物或平臺，應具安全之負荷強度。",
+        "雇主對於施工架及施工構臺，應經常予以適當之保養並維持各部分之牢穩。",
+        "雇主對於建築構造物及其附置物，應保持安全穩固，以防止崩塌等危害。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:23.719615",
+    "human_feedback": null
+  },
+  "11": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:47:33.273148",
+    "human_feedback": null
+  },
+  "21": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "確認",
+        "標示"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "上述施工架在提供使用前，應確認其符合相關規定，並在明顯易見之處進行明確標示。",
+        "雇主在提供使用前，應確認前述設置的施工架符合規定，並在明顯易見之處明確標示。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:37.170388",
+    "human_feedback": null
+  },
+  "51": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8666666666666667,
+    "evidence": {
+      "keywords_matched": [
+        "禁止",
+        "不得"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主不得使勞工在施工架上使用梯子、合梯或踏凳等從事作業。",
+        "雇主應禁止勞工攀登運轉中之立式車床、龍門刨床等之床台。",
+        "雇主不得使勞工以合梯當作二工作面之上下設備使用，並應禁止勞工站立於頂板作業。",
+        "雇主於吊籠之工作台上，不得設置或放置腳墊、梯子等供勞工使用。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:42.305179",
+    "human_feedback": null
+  },
+  "1": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "排水設備",
+        "洗手設備",
+        "沖淋設備",
+        "盥洗設備"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "應設置排水設備，隨時排除地面水及地下水。",
+        "應設置充分供應清潔水質之洗手設備。",
+        "刺激物、腐蝕性物質或毒性物質污染之工作場所，每十五人應設置一個冷熱水沖淋設備。",
+        "刺激物、腐蝕性物質或毒性物質污染之工作場所，每五人應設置一個冷熱水盥洗設備。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:48.313602",
+    "human_feedback": null
+  },
+  "29": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "擋土支撐",
+        "材料",
+        "損傷",
+        "變形",
+        "腐蝕"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "使勞工進入開挖面作業者，應設擋土支撐。",
+        "雇主對於供作擋土支撐之材料，不得有顯著之損傷、變形或腐蝕。",
+        "雇主對於設置擋土支撐之工作場所，必要時應置備加強、修補擋土支撐工程用材料與器材。",
+        "雇主對於供作模板支撐之材料，不得有明顯之損壞、變形或腐蝕。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:53.034759",
+    "human_feedback": null
+  },
+  "27": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "照明設備",
+        "光度均勻",
+        "照明的要求",
+        "必要之照度"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主僱用勞工於採光不良之場所從事露天開挖作業，應裝設作業安全所必需之照明設備。",
+        "雇主使勞工從事第三條第六款，第七款規定之作業，如採用發光背景時，應使光度均勻。",
+        "此外，雇主應注意採光及照明的要求，以確保工作環境的安全與舒適。",
+        "雇主使用吊籠作業時，於夜間或光線不良之場所，應提供安全作業所必要之照度。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:47:58.447712",
+    "human_feedback": null
+  },
+  "37": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:48:06.192788",
+    "human_feedback": null
+  },
+  "53": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:48:16.320420",
+    "human_feedback": null
+  },
+  "8": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "防止人員進入",
+        "制動停止裝置",
+        "緊急停車裝置",
+        "自動緊急遮斷裝置"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "工作車、節塊推進時，應設置防止人員進入推進路線下方之設施。",
+        "工作車應設置制動停止裝置。",
+        "為防止因鋼索斷裂及超速危險，應設置緊急停車裝置。",
+        "應設置漏洩及地震偵測自動緊急遮斷裝置。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:21.895842",
+    "human_feedback": null
+  },
+  "38": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "設置",
+        "通道",
+        "設備"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對構造物拆除區，應設置勞工安全出入通路，如使用樓梯者，應設置扶手。",
+        "雇主對勞工於橫隔兩地之通行時，應設置扶手、踏板、梯等適當之通行設備。",
+        "如作業地點高差在一．五公尺以上時，應設置使從事作業之勞工能安全上下之設備。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:25.481089",
+    "human_feedback": null
+  },
+  "22": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "監視",
+        "要求",
+        "操作人員",
+        "監督"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對設置前項自動警報裝置有顯著困難時，應置監視人於設備之運轉中從事監視工作。",
+        "雇主應根據前述第二款及第三款的規定，要求起重機操作人員監督搭乘人員確實執行相關措施。",
+        "雇主應依前項第二款及第三款規定，要求起重機操作人員，監督搭乘人員確實辦理。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:29.900636",
+    "human_feedback": null
+  },
+  "54": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "禁止進入",
+        "標示",
+        "公告",
+        "飲食",
+        "吸菸"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "在未確認不危害勞工之前，雇主應於顯明易見之處，揭示「禁止進入」之標示。",
+        "雇主應禁止與作業無關人員進入下列作業場所，並標示於顯明易見之處。",
+        "雇主應嚴禁與工作無關人員進入再壓室及其操作場所，並將有關禁止事項揭示於勞工易見之處所。",
+        "雇主應嚴禁與工作無關人員進入減壓艙及操作區域，並將有關安全須知揭示於勞工易見之處所。",
+        "雇主應公告粉塵作業場所禁止飲食或吸菸，並揭示於明顯易見之處所。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:36.037629",
+    "human_feedback": null
+  },
+  "39": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "雇主",
+        "勞工",
+        "清除",
+        "揭示"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主於勞工進入前項規定之休息室之前，應使其將附著物清除。",
+        "雇主應使勞工於進入休息室前，將附著於工作衣上之鉛塵適當清除。",
+        "前項規定，雇主應揭示於勞工顯而易見之處所。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:40.453060",
+    "human_feedback": null
+  },
+  "7": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8666666666666667,
+    "evidence": {
+      "keywords_matched": [
+        "有蓋容器"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主應於前項作業場所設置收容石綿等之切屑所必要之有蓋容器。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:42.891970",
+    "human_feedback": null
+  },
+  "19": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "禁止勞工進入",
+        "測定空氣中濃度",
+        "揭示於顯眼處"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "在確認勞工不會被溴甲烷等污染之前，應禁止勞工進入穀倉，並將此意旨揭示於顯眼處。",
+        "在燻蒸終止並開啟門扉後，若讓勞工進入該場所或同一倉庫未曾燻蒸的場所，應事先測定該倉庫或貨櫃的燻蒸場所或未曾燻蒸場所的空氣中氰化氫或溴甲烷濃度。",
+        "拆除帳幕後，若讓勞工進入燻蒸場所或鄰近的居住室，應測定各該場所空氣中氰化氫或溴甲烷的濃度，測定人員應在各該場所外操作。",
+        "拆除遮布後，若讓勞工進入燻蒸場所或鄰近的居住室，應測定各該場所空氣中氰化氫或溴甲烷的濃度；測定時應讓測定人員佩戴輸氣防護具，並在各該場所外操作。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:51.295269",
+    "human_feedback": null
+  },
+  "17": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "健康檢查",
+        "管理"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主僱用勞工從事異常氣壓作業時，應依勞工健康保護規則之規定，實施勞工健康檢查及管理。",
+        "雇主僱用勞工從事重體力勞動作業時，應依勞工健康保護規則之規定，實施勞工健康檢查及管理。",
+        "雇主僱用勞工從事高架作業時，應依勞工健康保護規則之規定，實施勞工健康檢查及管理。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:55.909567",
+    "human_feedback": null
+  },
+  "4": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "勞工",
+        "空間",
+        "新鮮空氣"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "每一勞工占有之氣積應在四立方公尺以上",
+        "每一勞工原則上應有十立方公尺以上之空間",
+        "每分鐘每一勞工所需的新鮮空氣應至少為零點六立方公尺"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:48:59.342210",
+    "human_feedback": null
+  },
+  "16": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:49:06.282133",
+    "human_feedback": null
+  },
+  "23": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:49:13.560420",
+    "human_feedback": null
+  },
+  "20": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "供應",
+        "勞工",
+        "飲用水",
+        "停止作業",
+        "餐食",
+        "清潔",
+        "營養"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "附圖甲區之溫濕作業環境者，雇主應充分供應勞工清潔之飲用水及食鹽。",
+        "附圖丙區之溫濕作業環境者，雇主應使勞工停止作業。",
+        "雇主應於適當場所充分供應勞工清潔之飲用水。",
+        "雇主對於供應勞工之餐食，應保持清潔並注意營養。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:49:18.220236",
+    "human_feedback": null
+  },
+  "18": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:49:26.175748",
+    "human_feedback": null
+  },
+  "28": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "檢點",
+        "作業有關事項"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主使勞工從事缺氧危險或局限空間作業時，應使該勞工就其作業有關事項實施檢點。",
+        "雇主使勞工從事林場作業時，應使該勞工就其作業有關事項實施檢點。",
+        "雇主使勞工從事船舶清艙解體作業時，應使該勞工就其作業有關事項實施檢點。",
+        "雇主使勞工從事碼頭裝卸作業時，應使該勞工就其作業有關事項實施檢點。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:49:30.673709",
+    "human_feedback": null
+  },
+  "6": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "安全衛生教育訓練",
+        "遵行",
+        "雇主"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "自營作業者擔任前項各款之操作或作業人員，應於事前接受前項所定職類之安全衛生教育訓練。",
+        "勞工對於前項安全衛生工作守則，應切實遵行。",
+        "前項人員，雇主應使其接受安全衛生教育訓練。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:49:33.918241",
+    "human_feedback": null
+  },
+  "10": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "安全衛生教育訓練",
+        "自主管理制度",
+        "營造業職業安全衛生"
+      ],
+      "decision_rule_id": "RULE_ADM_03",
+      "decision_rule_name": "教育訓練規則",
+      "rule_similarity_score": 0.523,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "應參照中央主管機關公告之相關指引，建立安全衛生教育訓練自主管理制度。",
+        "但營造業之事業單位，應由曾受營造業職業安全衛生業務主管教育訓練者選任之。",
+        "應及消費作業主管安全衛生教育訓練。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:49:36.456189",
+    "human_feedback": null
+  },
+  "2": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "管理單位",
+        "勞工人數"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "第一類事業之事業單位勞工人數在一百人以上者，應設直接隸屬雇主之專責一級管理單位。",
+        "第二類事業勞工人數在三百人以上者，應設直接隸屬雇主之一級管理單位。",
+        "第一類事業勞工人數在五百人以上者，應設直接隸屬雇主之專責一級管理單位。",
+        "第二類事業勞工人數在五百人以上者，應設直接隸屬雇主之一級管理單位。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:49:42.742017",
+    "human_feedback": null
+  },
+  "56": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "檢查",
+        "定期實施"
+      ],
+      "decision_rule_id": "1",
+      "decision_rule_name": "定期檢查機械",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對一般車輛，應每三個月就車輛各項安全性能定期實施檢查一次。",
+        "雇主對車輛系營建機械，應每年就該機械之整體定期實施檢查一次。",
+        "雇主對堆高機，應每年就該機械之整體定期實施檢查一次。",
+        "雇主對固定式起重機，應每年就該機械之整體定期實施檢查一次。",
+        "雇主對前項之固定式起重機，應每月依下列規定定期實施檢查一次。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "critical",
+    "timestamp": "2025-11-17T08:49:50.958830",
+    "human_feedback": null
+  },
+  "52": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "雇主",
+        "指派",
+        "操作",
+        "安全衛生教育訓練"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對高空工作車，應於每日作業前就其制動裝置、操作裝置及作業裝置之性能實施檢點。",
+        "雇主對於荷重在一公噸以上之堆高機，應指派經特殊作業安全衛生教育訓練人員操作。",
+        "雇主對於高空工作車，應指派經特殊作業安全衛生教育訓練人員操作。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:49:55.572347",
+    "human_feedback": null
+  },
+  "42": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "自動檢查",
+        "訂定計畫",
+        "發現異常",
+        "立即檢修",
+        "必要措施"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主依第十三條至第六十三條規定實施之自動檢查，應訂定自動檢查計畫。",
+        "雇主依第十三條至第七十七條規定實施自動檢查，發現有異常時，應立即檢修及採取必要措施。",
+        "雇主依第十三條至第七十七條規定實施之自動檢查，於其他法令另有規定者外，應依該規定為之。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:02.139838",
+    "human_feedback": null
+  },
+  "59": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "信號",
+        "指揮",
+        "規定"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於機械開始運轉有危害勞工之虞者，應規定固定信號，並指定指揮人員負責指揮。",
+        "雇主對於起重機具之作業，應規定一定之運轉指揮信號，並指派專人負責辦理。",
+        "雇主對於軌道機械，應設有適當信號裝置，並於事先通知有關勞工週知。",
+        "雇主對於起重機具之作業，應規定一定之運轉指揮信號，並指派專人負責指揮。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:05.391759",
+    "human_feedback": null
+  },
+  "58": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.0,
+    "evidence": {
+      "keywords_matched": [],
+      "decision_rule_id": "",
+      "decision_rule_name": "分類失敗,使用預設值",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {},
+      "alternative_classifications": [],
+      "text_snippets": [],
+      "extracted_events": []
+    },
+    "review_status": "pending_review",
+    "review_priority": "high",
+    "timestamp": "2025-11-17T08:50:15.828100",
+    "human_feedback": null
+  },
+  "47": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "安全規則",
+        "應辦理"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於鍋爐及壓力容器設備及有關措施，應依鍋爐及壓力容器有關安全規則之規定辦理。",
+        "雇主對於高壓氣體之製造、儲存、消費等，應依高壓氣體設備及容器有關安全規則之規定辦理。",
+        "雇主對於高壓氣體之廢棄，應防止火災爆炸或中毒之危害。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:20.975019",
+    "human_feedback": null
+  },
+  "5": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "防止滑走之裝置",
+        "手煞車",
+        "動力煞車",
+        "有效之煞車"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於車輛於軌道上有滑走之虞時，應設置防止滑走之裝置。",
+        "雇主對行駛於軌道之動力車，應設置手煞車，十公噸以上者，應增設動力煞車。",
+        "雇主對於傾斜在千分之十以上之軌道區使用之手推車，應設置有效之煞車。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:25.698926",
+    "human_feedback": null
+  },
+  "0": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "標示",
+        "指示器",
+        "刻度板"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "使用內燃機者，應設置標示潤滑油壓力之指示器。",
+        "壓力表或水高計之刻度板上，應明顯標示最高使用壓力之位置。",
+        "壓力表之刻度板上，應明顯標示最高使用壓力之位置。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:29.987656",
+    "human_feedback": null
+  },
+  "12": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "指示",
+        "退避場所",
+        "應經路線"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "指示從事該作業勞工之退避場所及應經路線"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:32.670063",
+    "human_feedback": null
+  },
+  "50": {
+    "classification": "PPE",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "耳塞",
+        "耳罩",
+        "防護具",
+        "佩戴"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主為防止勞工暴露於強烈噪音之工作場所，應置備耳塞、耳罩等防護具，並使勞工確實戴用。",
+        "雇主應要求勞工佩戴有效的耳塞、耳罩等防音防護具。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:36.926495",
+    "human_feedback": null
+  },
+  "45": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "消毒",
+        "處理",
+        "儲存",
+        "標示",
+        "清洗"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於受生物病原體污染之物品，應予以消毒、殺菌等適當處理，以避免勞工感染疾病。",
+        "雇主對於有害物、生物病原體或受其污染之物品，應妥為儲存，並加警告標示。",
+        "雇主對於勞工工作場所之底板、周圍牆壁、容器等有被生物病原體污染之虞者，應予適當消毒。",
+        "雇主對於受有害物或具有惡臭物污染之場所，應予適當之清洗。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:42.011448",
+    "human_feedback": null
+  },
+  "60": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "雇主",
+        "使用",
+        "不得超過額定荷重",
+        "不得用於載運或吊升勞工"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於固定式起重機之使用，不得超過額定荷重。",
+        "雇主在使用固定式起重機時，僅限於吊物，不得用於載運或吊升勞工進行作業。",
+        "雇主對於移動式起重機之使用，不得超過額定荷重。",
+        "雇主對於移動式起重機之使用，以吊物為限，不得乘載或吊升勞工從事作業。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:48.759250",
+    "human_feedback": null
+  },
+  "57": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "荷重試驗",
+        "安定性試驗",
+        "確認安全"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.85,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主於中型固定式起重機設置完成時，應實施荷重試驗及安定性試驗，確認安全後，方得使用。",
+        "雇主於中型移動式起重機設置完成時，應實施荷重試驗及安定性試驗，確認安全後，方得使用。",
+        "雇主於中型人字臂起重桿設置完成時，應實施荷重試驗，確認安全後，方得使用。",
+        "雇主於中型營建用提升機設置完成時，應實施荷重試驗，確認安全後，方得使用。",
+        "雇主於簡易提升機設置完成時，應實施荷重試驗，確認安全後，方得使用。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:54.277590",
+    "human_feedback": null
+  },
+  "61": {
+    "classification": "AdministrativeControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "積載荷重",
+        "不得超過",
+        "不得乘載人員"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.0,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "雇主對於升降機之使用，不得超過積載荷重。",
+        "雇主對於營建用提升機之使用，不得超過積載荷重。",
+        "雇主對於營建用提升機之使用，不得乘載人員。",
+        "雇主對於簡易提升機之使用，不得超過積載荷重。",
+        "雇主對於簡易提升機之使用，不得搭乘人員。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:50:59.254017",
+    "human_feedback": null
+  },
+  "32": {
+    "classification": "EngineeringControl",
+    "confidence": 0.8833333333333334,
+    "evidence": {
+      "keywords_matched": [
+        "局部排氣裝置"
+      ],
+      "decision_rule_id": "",
+      "decision_rule_name": "",
+      "rule_similarity_score": 0.9,
+      "confidence_factors": {
+        "keyword_match_strength": 0.9,
+        "context_clarity": 0.8,
+        "domain_alignment": 0.95
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "鑄造、烘燒等作業場所，應設置局部排氣裝置。",
+        "以鼓風爐或電解漿泥熔融爐從事冶煉、熔融或煙灰之段燒作業場所，應設置局部排氣裝置。",
+        "快削鋼注鉛之室內作業場所，應設置局部排氣裝置。",
+        "從事鉛之熔融室內作業場所，應設置局部排氣裝置及儲存浮渣之容器。",
+        "從事鉛、鉛混存物之熔融、鑄造段燒及烘燒之室內作業場所，應設置局部排氣裝置。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:51:05.073839",
+    "human_feedback": null
+  },
+  "31": {
+    "classification": "EngineeringControl",
+    "confidence": 0.7999999999999999,
+    "evidence": {
+      "keywords_matched": [
+        "密閉設備",
+        "局部排氣裝置",
+        "通風"
+      ],
+      "decision_rule_id": "RULE_ENG_02",
+      "decision_rule_name": "通風與換氣規則",
+      "rule_similarity_score": 0.539,
+      "confidence_factors": {
+        "keyword_match_strength": 0.8,
+        "context_clarity": 0.7,
+        "domain_alignment": 0.9
+      },
+      "alternative_classifications": [],
+      "text_snippets": [
+        "業場所，應設置密閉設備或局部排氣裝置。",
+        "場所，應設置局部排氣裝置。",
+        "應設置局部排氣裝置。"
+      ],
+      "extracted_events": []
+    },
+    "review_status": "auto_approved",
+    "review_priority": "low",
+    "timestamp": "2025-11-17T08:51:08.603423",
+    "human_feedback": null
+  }
+}

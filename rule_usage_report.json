@@ -1,0 +1,90 @@
+{
+  "generated_at": "2025-11-17T09:57:01.294369",
+  "version": "v4.0",
+  "total_rules_defined": 12,
+  "rules_used": 5,
+  "rules_unused": 7,
+  "semantic_matching_enabled": true,
+  "rule_usage_details": {
+    "RULE_ENG_02": {
+      "usage_count": 8,
+      "rule_name": "通風與換氣規則",
+      "category": "EngineeringControl",
+      "has_embedding": true
+    },
+    "RULE_ENG_03": {
+      "usage_count": 2,
+      "rule_name": "安全裝置規則",
+      "category": "EngineeringControl",
+      "has_embedding": true
+    },
+    "RULE_ADM_03": {
+      "usage_count": 2,
+      "rule_name": "教育訓練規則",
+      "category": "AdministrativeControl",
+      "has_embedding": true
+    },
+    "RULE_PPE_01": {
+      "usage_count": 1,
+      "rule_name": "頭部防護規則",
+      "category": "PPE",
+      "has_embedding": true
+    },
+    "1": {
+      "usage_count": 1,
+      "rule_name": "Unknown",
+      "category": "Unknown",
+      "has_embedding": false
+    }
+  },
+  "unused_rules": [
+    {
+      "rule_id": "RULE_ADM_01",
+      "rule_name": "時間管理規則",
+      "category": "AdministrativeControl",
+      "possible_reason": "語料庫中無相關義務"
+    },
+    {
+      "rule_id": "RULE_ADM_02",
+      "rule_name": "檢查與監測規則",
+      "category": "AdministrativeControl",
+      "possible_reason": "語料庫中無相關義務"
+    },
+    {
+      "rule_id": "RULE_ADM_04",
+      "rule_name": "標示與警告規則",
+      "category": "AdministrativeControl",
+      "possible_reason": "語料庫中無相關義務"
+    },
+    {
+      "rule_id": "RULE_ENG_01",
+      "rule_name": "物理屏障規則",
+      "category": "EngineeringControl",
+      "possible_reason": "語料庫中無相關義務"
+    },
+    {
+      "rule_id": "RULE_PPE_02",
+      "rule_name": "墜落防護規則",
+      "category": "PPE",
+      "possible_reason": "語料庫中無相關義務"
+    },
+    {
+      "rule_id": "RULE_PPE_03",
+      "rule_name": "呼吸防護規則",
+      "category": "PPE",
+      "possible_reason": "語料庫中無相關義務"
+    },
+    {
+      "rule_id": "RULE_ELIM_01",
+      "rule_name": "危害源消除規則",
+      "category": "EliminationControl",
+      "possible_reason": "語料庫中無相關義務"
+    },
+    {
+      "rule_id": "RULE_SUB_01",
+      "rule_name": "材料替代規則",
+      "category": "SubstitutionControl",
+      "possible_reason": "語料庫中無相關義務"
+    }
+  ]
+}

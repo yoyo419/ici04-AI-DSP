@@ -1,0 +1,208 @@
+{
+  "subject_ontology": {
+    "雇主": {
+      "standard_name": "EMPLOYER",
+      "parent_category": "LegalEntity",
+      "level": 2,
+      "hierarchy_path": "Subject -> LegalEntity -> Employer",
+      "synonyms": [
+        "事業單位",
+        "事業主",
+        "業主",
+        "公司"
+      ],
+      "description": "負有職業安全衛生法律義務的事業經營主體"
+    },
+    "勞工": {
+      "standard_name": "WORKER",
+      "parent_category": "Person",
+      "level": 2,
+      "hierarchy_path": "Subject -> Person -> Worker",
+      "synonyms": [
+        "工作者",
+        "員工",
+        "從業人員",
+        "作業人員"
+      ],
+      "description": "受僱於雇主從事工作獲致工資者"
+    },
+    "承攬人": {
+      "standard_name": "CONTRACTOR",
+      "parent_category": "LegalEntity",
+      "level": 2,
+      "hierarchy_path": "Subject -> LegalEntity -> Contractor",
+      "synonyms": [
+        "承包商",
+        "承攬廠商",
+        "外包商"
+      ],
+      "description": "承攬事業單位工作之事業單位"
+    },
+    "代行檢查機構": {
+      "standard_name": "INSPECTION_AGENCY",
+      "parent_category": "Organization",
+      "level": 2,
+      "hierarchy_path": "Subject -> Organization -> InspectionAgency",
+      "synonyms": [
+        "檢查機構",
+        "檢驗機構",
+        "代檢機構"
+      ],
+      "description": "經中央主管機關認可代行檢查業務之機構"
+    },
+    "職業安全衛生管理人員": {
+      "standard_name": "OSH_PERSONNEL",
+      "parent_category": "Person",
+      "level": 3,
+      "hierarchy_path": "Subject -> Person -> Professional -> OSHPersonnel",
+      "synonyms": [
+        "安全衛生人員",
+        "職安人員",
+        "安全管理員"
+      ],
+      "description": "從事職業安全衛生管理工作之專業人員"
+    }
+  },
+  "object_ontology": {
+    "起重機": {
+      "standard_name": "CRANE",
+      "parent_category": "LiftingEquipment",
+      "level": 3,
+      "hierarchy_path": "Object -> Equipment -> LiftingEquipment -> Crane",
+      "synonyms": [
+        "吊車",
+        "起重設備"
+      ],
+      "description": "用於吊升及搬運重物之機械設備"
+    },
+    "升降機": {
+      "standard_name": "ELEVATOR",
+      "parent_category": "LiftingEquipment",
+      "level": 3,
+      "hierarchy_path": "Object -> Equipment -> LiftingEquipment -> Elevator",
+      "synonyms": [
+        "電梯",
+        "昇降設備"
+      ],
+      "description": "用於載運人員或貨物於不同樓層間之設備"
+    },
+    "衝壓機械": {
+      "standard_name": "PRESS_MACHINE",
+      "parent_category": "ProcessingEquipment",
+      "level": 3,
+      "hierarchy_path": "Object -> Equipment -> ProcessingEquipment -> PressMachine",
+      "synonyms": [
+        "沖床",
+        "沖壓床",
+        "衝剪機"
+      ],
+      "description": "利用壓力進行金屬或其他材料加工之機械"
+    },
+    "危害性化學品": {
+      "standard_name": "HAZARDOUS_CHEMICAL",
+      "parent_category": "ChemicalSubstance",
+      "level": 2,
+      "hierarchy_path": "Object -> Substance -> ChemicalSubstance -> HazardousChemical",
+      "synonyms": [
+        "有害化學物質",
+        "危險化學品"
+      ],
+      "description": "具有危害性之化學品"
+    },
+    "有機溶劑": {
+      "standard_name": "ORGANIC_SOLVENT",
+      "parent_category": "HazardousChemical",
+      "level": 3,
+      "hierarchy_path": "Object -> Substance -> ChemicalSubstance -> HazardousChemical -> OrganicSolvent",
+      "synonyms": [
+        "溶劑",
+        "有機溶劑類"
+      ],
+      "description": "能溶解其他物質的有機化合物"
+    },
+    "安全裝置": {
+      "standard_name": "SAFETY_DEVICE",
+      "parent_category": "SafetyEquipment",
+      "level": 2,
+      "hierarchy_path": "Object -> Equipment -> SafetyEquipment -> SafetyDevice",
+      "synonyms": [
+        "安全設施",
+        "安全設備"
+      ],
+      "description": "用於預防危害之裝置"
+    },
+    "護罩": {
+      "standard_name": "GUARD",
+      "parent_category": "SafetyDevice",
+      "level": 3,
+      "hierarchy_path": "Object -> Equipment -> SafetyEquipment -> SafetyDevice -> Guard",
+      "synonyms": [
+        "防護罩",
+        "安全護罩"
+      ],
+      "description": "防止人員接觸危險部位之護蓋或遮蔽物"
+    },
+    "個人防護具": {
+      "standard_name": "PPE",
+      "parent_category": "SafetyEquipment",
+      "level": 2,
+      "hierarchy_path": "Object -> Equipment -> SafetyEquipment -> PPE",
+      "synonyms": [
+        "防護具",
+        "防護裝備"
+      ],
+      "description": "個人穿戴使用之防護設備"
+    },
+    "安全帽": {
+      "standard_name": "SAFETY_HELMET",
+      "parent_category": "PPE",
+      "level": 3,
+      "hierarchy_path": "Object -> Equipment -> SafetyEquipment -> PPE -> SafetyHelmet",
+      "synonyms": [
+        "工安帽",
+        "防護帽"
+      ],
+      "description": "保護頭部免受撞擊之帽具"
+    },
+    "安全帶": {
+      "standard_name": "SAFETY_HARNESS",
+      "parent_category": "PPE",
+      "level": 3,
+      "hierarchy_path": "Object -> Equipment -> SafetyEquipment -> PPE -> SafetyHarness",
+      "synonyms": [
+        "防墜器",
+        "安全索"
+      ],
+      "description": "防止高處作業墜落之防護裝備"
+    },
+    "高溫作業場所": {
+      "standard_name": "HIGH_TEMP_WORKPLACE",
+      "parent_category": "Workplace",
+      "level": 2,
+      "hierarchy_path": "Object -> Environment -> Workplace -> HighTempWorkplace",
+      "synonyms": [
+        "高溫環境",
+        "熱作業場所",
+        "鍋爐房",
+        "鑄造間"
+      ],
+      "description": "溫度過高之作業環境"
+    },
+    "密閉空間": {
+      "standard_name": "CONFINED_SPACE",
+      "parent_category": "Workplace",
+      "level": 2,
+      "hierarchy_path": "Object -> Environment -> Workplace -> ConfinedSpace",
+      "synonyms": [
+        "侷限空間",
+        "局限空間"
+      ],
+      "description": "通風不良之有限空間"
+    }
+  },
+  "metadata": {
+    "subject_count": 5,
+    "object_count": 12,
+    "discovered_entities_count": 4534
+  }
+}
