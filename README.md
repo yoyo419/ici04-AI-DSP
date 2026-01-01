@@ -2,7 +2,9 @@
 
 **Legal Reasoning Project | NCCU**
 
-*Note: This project entails large use with OPENAI API.*
+This project focuses on geometrizing legal logic by transforming regulatory texts into high-dimensional hyper-rectangles. By employing a hybrid RGAT-BoxE architecture, the system solves range ambiguity and achieves expert-level reasoning in the Occupational Safety and Health (OSH) domain.
+* Claim: This project is now still working with many future works. If there are any modification or updates,  we will written in this README file.
+* *Note: This project entails large use with OPENAI API.*
 
 ---
 
@@ -348,4 +350,19 @@ For current graph, there are several problems:
 
 ## Future Work D: Allocate Complex Reasoning to Multiple Agents
 *   Reference: **Chatlaw** (Multi-Agent Collaborative Legal Assistant).
-*   [2306.16092] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model   
+*   [2306.16092] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model
+
+# Preliminary Results
+* Qwen 2.5-7B + RGAT + BoxE: BERT-F1 44.05%; ROUGE-L 21.16%.
+* GPT-4o: BERT-F1 44.23%; ROUGE-L 17.90%.
+
+# Contributors
+* Hsu Kuan, Huang
+* Wen You, Chen
+* Po Yu, Chen
+
+# Acknowledgment
+* Instructor: Chia Kai, Liu (CK)
+* Professor: Chung Pei, Pien
+* Data Source: Occupational Safety and Health Adminstration, Ministry of Labor
+* Data Source: Labor Affairs Bureau of Taichung City Government
