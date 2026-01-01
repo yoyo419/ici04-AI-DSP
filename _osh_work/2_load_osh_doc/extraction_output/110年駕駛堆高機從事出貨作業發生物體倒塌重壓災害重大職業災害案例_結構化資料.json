@@ -1,0 +1,18 @@
+[
+  {
+    "industry": "木製建材批發業(4611)",
+    "incident": "(分類號碼)：墜落、滾落（01）",
+    "medium_type": "(分類號碼)：物體倒塌、崩塌（5）",
+    "description": "",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "物質材料",
+    "medium_type_general_id": "5",
+    "medium_type_normal": "材料",
+    "medium_type_normal_id": "52",
+    "medium_type_specific": "石頭, 砂, 小石子",
+    "medium_type_specific_id": "523"
+  }
+]

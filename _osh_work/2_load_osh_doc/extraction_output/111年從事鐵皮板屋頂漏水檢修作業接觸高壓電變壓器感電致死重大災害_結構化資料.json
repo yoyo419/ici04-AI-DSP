@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "塑膠外殼及配件製造業(2203)",
+    "incident": "感電(13)",
+    "medium_type": "電力設備(352)",
+    "description": "111 年1 月25 日10 時45 分許，○○有限公司所雇勞工杜○○\n與廖○○於○○有限公司廠區後方倉庫處屋頂接近高壓電變壓器線\n路處（電壓為11.4 千伏特/220 伏特）進行檢查、修理作業，未設\n置護圍或於該電路四周裝置絕緣用防護裝備等設備或採取移開該電\n路之措施，致杜○○工作中左手上臂接觸鄰近之高壓電變壓器11.4\n千伏特跨接線遭高壓電電擊，高壓電疑似自左手上臂入電，由左腳大\n拇指出電至鐵皮板屋頂後接地，構成感電迴路，造成杜○○因心因性\n休克不治死亡。",
+    "cause_analysis": "(一)直接原因：勞工於接近高壓電變壓器",
+    "preventive_measures": "",
+    "incident_type": "感電",
+    "incident_type_id": "13",
+    "medium_type_general": "其他設備",
+    "medium_type_general_id": "3",
+    "medium_type_normal": "電氣設備",
+    "medium_type_normal_id": "35",
+    "medium_type_specific": "電力設備",
+    "medium_type_specific_id": "352",
+    "description_summary": "杜○○於倉庫屋頂檢修時觸電，因高壓電擊心因性休克死亡，未設防護措施。",
+    "cause_summary": "「勞工未架設安全隔離設備、勞工未使用適當防護具、雇主未禁止接近高壓電變壓器」"
+  }
+]

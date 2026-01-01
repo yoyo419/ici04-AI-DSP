@@ -1,0 +1,18 @@
+[
+  {
+    "industry": "機電、電信及電路設備安裝業(4331)",
+    "incident": "(分類號碼)：墜落（01）",
+    "medium_type": "(分類號碼)：梯子（371）",
+    "description": "",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "其他設備",
+    "medium_type_general_id": "3",
+    "medium_type_normal": "用具",
+    "medium_type_normal_id": "37",
+    "medium_type_specific": "梯子等",
+    "medium_type_specific_id": "371"
+  }
+]

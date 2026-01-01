@@ -1,0 +1,37 @@
+[
+  {
+    "industry": "建築物完工裝修業(4340)",
+    "incident": "（分類號碼）：墜落(1)",
+    "medium_type": "（分類號碼）：屋頂、屋架、樑(415)",
+    "description": "113年8月3日，雇主吳○○及罹災者阮○○(NGUYEN ○○)(以下稱阮\n員)一同至臺中市清水區鎮北街12之3號",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "113年8月3日，雇主吳○○與阮○○在臺中市清水區進行工作時發生意外。"
+  },
+  {
+    "industry": "建築物完工裝修業(4340)",
+    "incident": "（分類號碼）：墜落(1)",
+    "medium_type": "（分類號碼）：屋頂、屋架、樑(415)",
+    "description": "113年8月3日，雇主吳○○及罹災者阮○○(NGUYEN ○○)(以下稱阮\n員)一同至臺中市清水區鎮北街12之3號從事頂樓鐵皮搭設工程(四面牆)，當\n日15時13分許進行鋼材焊接作業時，雇主吳○○聽到罹災者阮員大叫，轉頭\n看到罹災者阮員站在既有遮雨棚上，罹災者阮員踏穿遮雨棚墜落至1樓地面，\n立即經送往童綜合醫療社團法人童綜合醫院急救，仍於當日16時10分宣告\n不治死亡。",
+    "cause_analysis": "(一)直接原因：罹災者阮○○(NGUYEN ○○) 自離地高度約17.4公尺處墜落至\n地面，導致頭部外傷併顱內出血、顱骨粉碎性骨折不治死亡。 \n(二)間接原因： \n不安全狀況： \n(1) 對於在離地高度約 17.4 公尺之遮雨棚上從事鋼材焊接作業，未訂定\n墜落",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "阮員在臺中市清水區進行鋼材焊接時，踩穿遮雨棚墜落一樓，送醫不治死亡。",
+    "cause_summary": "「勞工未使用安全帶、雇主未訂定墜落防護措施」"
+  }
+]

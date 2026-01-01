@@ -1,0 +1,37 @@
+[
+  {
+    "industry": "冷凍、通風、空調系統裝修工程(4332)",
+    "incident": "墜落、滾落（1）",
+    "medium_type": "屋頂、屋架、樑(415)",
+    "description": "依據○○工程有限公司負責人林○○稱述，112 年2 月25 日14 時23 分許，\n罹災者林○○於臺中市大甲區○○里○○路○○號之○○公司A 棟F 區",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "112年2月25日，林○○於台中市大甲區某公司A棟F區發生事故。"
+  },
+  {
+    "industry": "冷凍、通風、空調系統裝修工程(4332)",
+    "incident": "墜落、滾落（1）",
+    "medium_type": "屋頂、屋架、樑(415)",
+    "description": "依據○○工程有限公司負責人林○○稱述，112 年2 月25 日14 時23 分許，\n罹災者林○○於臺中市大甲區○○里○○路○○號之○○公司A 棟F 區從事屋頂\n復原作業時，自離地高度約14 公尺屋頂跌落地面，經救護車送往光田綜合醫院\n大甲院區急救，於當日15 時45 分許不治死亡。",
+    "cause_analysis": "(一)直接原因：罹災者林○○自離地高度14 公尺處跌落至地面，致顱腦損傷、胸\n髖部挫傷、下肢骨折，造成休克不治死亡。 \n(二)間接原因： \n不安全狀況：1.雇主對於高度2公尺以上之工作場所，勞工作業有墜落之虞者，\n未訂定墜落災害防止計畫，依下列風險控制之先後順序規劃，\n並採取適當墜落災害防止設施。 \n 2.使勞工於離地高度約14公尺之屋頂開口",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "林○○於大甲區從事屋頂復原作業時，從14公尺高處墜落，送醫不治死亡。",
+    "cause_summary": "「勞工未使用安全帶、雇主未訂定墜落災害防止計畫、雇主未採取適當墜落災害防止設施、雇主使勞工於屋頂開口作業」"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "紙漿製造業（1511）",
+    "incident": "被夾、被捲（7）",
+    "medium_type": "其他(噴膠設備)(159)",
+    "description": "111 年9 月21 日23 時5 分許，ＯＯ股份有限公司ＯＯ分公司所僱勞工黃ＯＯ從\n事噴膠機臺之清潔作業，未停止相關機械運轉，且噴膠機臺具有危險之部分，未設置\n護罩、護圍或具有連鎖性能之安全門等設備，罹災者黃ＯＯ以攀爬方式，上半身進入\n噴膠機臺可作動範圍內，於噴膠機臺往下進行補膠作業時，致發生罹災者黃ＯＯ遭噴\n膠機臺夾傷，造成頭部挫裂創，導致顱腦損傷而不治死亡之職業災害。",
+    "cause_analysis": "(一)直接原因：勞工",
+    "preventive_measures": "",
+    "incident_type": "被夾, 被捲",
+    "incident_type_id": "7",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "一般動力機械",
+    "medium_type_normal_id": "15",
+    "medium_type_specific": "其他",
+    "medium_type_specific_id": "159",
+    "description_summary": "勞工黃某清潔噴膠機未停機且無安全設備，攀爬進入機臺範圍內遭夾傷，頭部重創致死。",
+    "cause_summary": "勞工未架設施工架與工作臺、勞工未使用安全帶與安全帽等防護工具"
+  }
+]

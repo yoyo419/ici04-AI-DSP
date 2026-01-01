@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "其他專門營造業(4390)",
+    "incident": "（分類號碼）：墜落、滾落（01）",
+    "medium_type": "（分類號碼）：施工架（411）",
+    "description": "112年9月8日8時45分許，罹災者宋○○於進行「○○○施工架組配工程」\n之施工架拆除作業時，因雇主未訂定墜落災害防止計畫並採取適當墜落災\n害防止設施且未使勞工確實使用安全帽及背負式安全帶等個人防護具，致\n自距離地面高度約3.34公尺之第2層腳踏板墜落至地面，造成頭胸腹部鈍挫\n傷致多重器官損傷，經送醫急救後仍不治死亡。",
+    "cause_analysis": "(一)直接原因：罹災者宋○○",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "施工架",
+    "medium_type_specific_id": "411",
+    "description_summary": "宋○○拆除施工架時因缺乏防墜措施及個人防護具墜落，頭胸腹部重傷不治。",
+    "cause_summary": "「勞工未架設安全設備、勞工未使用個人防護具、雇主未禁止危險作業、雇主未辦理安全訓練、雇主未訂定安全操作規範」"
+  }
+]

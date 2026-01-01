@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "其他專門營造業（4390）",
+    "incident": "墜落、滾落（1）",
+    "medium_type": "屋頂、屋架、樑（415）",
+    "description": "113年6月12日12時30分許，罹災者許○○（下稱許員）於臺中市\n某公寓大廈所屬地下停車場車道之雨遮上拆除烤漆浪板時，自雨遮骨\n架上墜落至停車場車道，墜落高度約5.3公尺，致許員頭枕部撕裂傷併\n顱腦損傷出血、左側鎖骨及多處肋骨骨折併血胸，因創傷性併中樞神\n經性休克而死亡。",
+    "cause_analysis": "(一)直接原因：罹災者因高處墜落致頭枕部撕裂傷併顱腦損傷出血、左側\n鎖骨及多處肋骨骨折併血胸，造成創傷性併中樞神經性休\n克而死亡。 \n (二)間接原因： \n 不安全狀況： \n(1) 對於在離地高度2 公尺以上之地下停車場車道雨遮上",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "許員於臺中市地下停車場拆除浪板時墜落5.3公尺，致顱腦損傷及多處骨折，最終死亡。",
+    "cause_summary": "「勞工未使用安全帶、雇主未架設安全防護設施、雇主未禁止在危險高度作業、雇主未訂定高處作業安全規則」"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "industry": "冷凍、空調及管線工程業(4332)",
+    "incident": "(分類號碼)：墜落、滾落（1）",
+    "medium_type": "(分類號碼)：屋頂、屋架、樑(採光罩)",
+    "description": "",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415"
+  }
+]

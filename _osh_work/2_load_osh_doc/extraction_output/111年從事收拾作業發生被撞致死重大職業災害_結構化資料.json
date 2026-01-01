@@ -1,0 +1,18 @@
+[
+  {
+    "industry": "庭園景觀工程業(4320)",
+    "incident": "(分類號碼)：被撞（06）",
+    "medium_type": "(分類號碼)：汽車、公共汽車（231）",
+    "description": "",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "被撞",
+    "incident_type_id": "6",
+    "medium_type_general": "裝卸運搬機械",
+    "medium_type_general_id": "2",
+    "medium_type_normal": "交通工具",
+    "medium_type_normal_id": "23",
+    "medium_type_specific": "汽車, 公共汽車",
+    "medium_type_specific_id": "231"
+  }
+]

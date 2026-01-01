@@ -1,0 +1,19 @@
+[
+  {
+    "industry": "合板及組合木材製造業（1402）",
+    "incident": "墜落（1）；其他（18）。",
+    "medium_type": "(固定梯)(371)；其他(719)。",
+    "description": "依據○○國際股份有限公司總經理陳○○稱述，110 年6 月22 日9 時10\n分許，該單位總經理陳○○偕同罹災者汪○○及另1 名領有居留證之越南\n籍勞工鄧○○以攀爬B 棟廠房北側屋頂之集塵設備附設固定梯方式，前往\n該集塵設備之集塵桶，",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "其他設備",
+    "medium_type_general_id": "3",
+    "medium_type_normal": "用具",
+    "medium_type_normal_id": "37",
+    "medium_type_specific": "梯子等",
+    "medium_type_specific_id": "371",
+    "description_summary": "110年6月22日，總經理陳○○與汪○○及越南籍勞工攀爬B棟廠房屋頂時發生意外。"
+  }
+]

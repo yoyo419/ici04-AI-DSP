@@ -1,0 +1,37 @@
+[
+  {
+    "industry": "庭園景觀工程業（4320）",
+    "incident": "墜落、滾落（1）",
+    "medium_type": "屋頂、屋架、樑(415)",
+    "description": "依據雇主黃○○稱述，111 年10 月23 日8 時9 分許，罹災者蔡○○被指派\n至○○有限公司廠房屋頂",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "罹災者蔡○○於10月23日8時9分在○○有限公司屋頂作業時發生意外。"
+  },
+  {
+    "industry": "庭園景觀工程業（4320）",
+    "incident": "墜落、滾落（1）",
+    "medium_type": "屋頂、屋架、樑(415)",
+    "description": "依據雇主黃○○稱述，111 年10 月23 日8 時9 分許，罹災者蔡○○被指派\n至○○有限公司廠房屋頂從事屋頂清潔作業，於當日9 時20 分許，蔡員因踩破\n採光罩而墜落至地面，黃員於當日10 時5 分許來到災害現場並上屋頂找尋蔡員，\n發現屋頂有破一個洞，往下查看發現蔡員趴在地上，便趕緊聯絡救護車及廠房房\n東魏○○，經救護車送往亞洲大學附屬醫院救治，於當日11 時48 分許不治死亡。",
+    "cause_analysis": "(一)直接原因：自高度約9.8 公尺處踏穿廠房屋頂之塑膠採光罩墜落至地面，蔡\n員因胸腹部挫傷併骨折，造成胸腹腔內出血不治死亡。 \n(二)間接原因： \n不安全狀況：(1) 使勞工於離地高度約9.8公尺之塑膠採光罩等易踏穿材料構\n築之屋頂",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "蔡○○於111年10月23日進行屋頂清潔作業時踩破採光罩墜落，送醫不治。",
+    "cause_summary": "「勞工未使用安全帶與安全帽等防護工具、雇主未禁止勞工於易踏穿材料構築之屋頂作業」"
+  }
+]

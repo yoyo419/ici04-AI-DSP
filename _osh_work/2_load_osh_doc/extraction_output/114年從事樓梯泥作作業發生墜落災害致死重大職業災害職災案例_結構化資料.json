@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "其他專門營造業(4390)",
+    "incident": "墜落（01）",
+    "medium_type": "樓梯（413）。",
+    "description": "114 年2 月19 日罹災者王OO 與陳OO 於「OOOO 新建工程」，進行樓梯泥作作\n業。上午8 至9 時許罹災者王OO 與陳OO 於分別於R1 樓樓梯及R2 樓平台進行\n牆面泥作作業。陳OO 作業中聽見有物體掉落聲音，回頭即見罹災者王OO 已墜落\n到R1 樓樓梯處(高差約2.8 公尺)，後經送往臺中市西屯區澄清醫院中港院區住\n院住療，延至3 月14 日16 時50 分死亡。",
+    "cause_analysis": "（一）直接原因：罹災者王O 龍",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "樓梯, 梯道",
+    "medium_type_specific_id": "413",
+    "description_summary": "王OO於樓梯泥作作業時墜落2.8公尺，送醫後不治，於3月14日死亡。",
+    "cause_summary": "「勞工未架設施工架與工作臺、勞工未使用安全帶與安全帽等防護工具」"
+  }
+]

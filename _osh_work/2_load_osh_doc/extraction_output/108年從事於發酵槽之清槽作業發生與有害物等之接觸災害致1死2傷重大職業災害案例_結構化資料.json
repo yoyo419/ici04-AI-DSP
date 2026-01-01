@@ -1,0 +1,19 @@
+[
+  {
+    "industry": "西藥製造業（2002）",
+    "incident": "與有害物等之接觸（12）",
+    "medium_type": "有害物(氮氣)(514)",
+    "description": "依據○○藥品工業股份有限公司台中○二廠擔任108 年12 月27 日a 棟f\n區2 樓5 噸發酵槽清槽作業之監視人員陳○○稱述，罹災者李○○108 年\n12 月27 日8 時9 分許於該區發酵槽人孔進入，並以攀爬垂直固定梯方式\n至槽內",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "與有害物等之接觸",
+    "incident_type_id": "12",
+    "medium_type_general": "物質材料",
+    "medium_type_general_id": "5",
+    "medium_type_normal": "危險物, 有害物",
+    "medium_type_normal_id": "51",
+    "medium_type_specific": "有害物",
+    "medium_type_specific_id": "514",
+    "description_summary": "108年12月27日，李○○進入台中○二廠發酵槽清槽作業時，攀爬垂直梯至槽內發生意外。"
+  }
+]

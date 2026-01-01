@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "金屬表面處理業(2544)",
+    "incident": "被撞(6)",
+    "medium_type": "堆高機(222)",
+    "description": "104 年10 月25 日15 時30 分許，越籍勞工吳○○於該單位辦公室旁鐵材前處理\n清潔區入口門牆處，被堆高機撞擊並夾壓於牆角後倒地，造成外傷性胸腹部鈍挫傷，\n經送往大雅區清泉醫院急救無效，不治死亡。",
+    "cause_analysis": "(一)直接原因：遭堆高機撞倒，造成外傷性胸腹部鈍挫傷，導致多重器官損傷而不治死\n亡。 \n(二)間接原因： \n不安全狀況：堆高機運輸路線，未妥善規劃，並作標示。 \n(三)基本原因： \n(1)未對勞工施以",
+    "preventive_measures": "",
+    "incident_type": "被撞",
+    "incident_type_id": "6",
+    "medium_type_general": "裝卸運搬機械",
+    "medium_type_general_id": "2",
+    "medium_type_normal": "動力運搬機械",
+    "medium_type_normal_id": "22",
+    "medium_type_specific": "堆高機",
+    "medium_type_specific_id": "222",
+    "description_summary": "越籍勞工於辦公室旁被堆高機撞擊夾壓，送醫不治死亡。",
+    "cause_summary": "「勞工遭堆高機撞倒、雇主未妥善規劃堆高機運輸路線並作標示、雇主未對勞工施以安全衛生教育訓練」"
+  }
+]

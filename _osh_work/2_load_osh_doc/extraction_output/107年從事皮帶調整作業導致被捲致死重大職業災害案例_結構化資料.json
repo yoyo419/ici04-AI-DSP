@@ -1,0 +1,37 @@
+[
+  {
+    "industry": "冷凍、空調及管道工程業（4332）",
+    "incident": "被夾、被捲（7）",
+    "medium_type": "其他(傳動帶)（129）",
+    "description": "107 年2 月2 日8 時40 分許，勞工A 君與罹災者楊○○",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "被夾, 被捲",
+    "incident_type_id": "7",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "動力傳導裝置",
+    "medium_type_normal_id": "12",
+    "medium_type_specific": "其他",
+    "medium_type_specific_id": "129",
+    "description_summary": "107年2月2日8時40分，勞工A君與楊○○發生事故，導致楊○○受傷。"
+  },
+  {
+    "industry": "冷凍、空調及管道工程業（4332）",
+    "incident": "被夾、被捲（7）",
+    "medium_type": "其他(傳動帶)（129）",
+    "description": "107 年2 月2 日8 時40 分許，勞工A 君與罹災者楊○○從事H-707 皮輸\n機之皮帶調整作業時，未停止皮輸機運轉，該單位亦未落實上鎖及掛牌之\n措施，導致楊○○遭運轉之皮帶捲入，經送醫後不治死亡之職業災害。",
+    "cause_analysis": "(一)直接原因：遭運轉之皮帶捲入，造成勞工楊○○死亡之職業災害。 \n (二)間接原因： \n 不安全狀況：對於",
+    "preventive_measures": "",
+    "incident_type": "被夾, 被捲",
+    "incident_type_id": "7",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "動力傳導裝置",
+    "medium_type_normal_id": "12",
+    "medium_type_specific": "其他",
+    "medium_type_specific_id": "129",
+    "description_summary": "勞工調整皮輸機皮帶時未停機，缺乏上鎖掛牌措施，導致楊○○被捲入死亡。",
+    "cause_summary": "「勞工未使用安全防護裝置、雇主未禁止危險操作、雇主未訂定安全操作規則」"
+  }
+]

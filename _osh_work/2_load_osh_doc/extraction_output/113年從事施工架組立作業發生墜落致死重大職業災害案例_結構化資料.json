@@ -1,0 +1,19 @@
+[
+  {
+    "industry": "其他土木工程業(4290)",
+    "incident": "(分類號碼)：墜落、滾落（1）",
+    "medium_type": "(分類號碼)：屋頂、屋架、樑 (411)",
+    "description": "",
+    "cause_analysis": "罹災者",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "cause_summary": "「勞工未架設安全防護設備、勞工未使用個人防護具、雇主未禁止危險作業、雇主未辦理安全訓練、雇主未訂定安全操作規範」"
+  }
+]

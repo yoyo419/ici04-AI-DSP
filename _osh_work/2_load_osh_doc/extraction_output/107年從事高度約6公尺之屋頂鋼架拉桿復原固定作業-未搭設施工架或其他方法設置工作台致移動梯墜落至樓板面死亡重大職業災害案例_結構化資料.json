@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "金屬建築組件製造業(2522)",
+    "incident": "墜落、滾落(1)",
+    "medium_type": "梯子等(移動梯)(371)。",
+    "description": "據○○浪板有限公司負責人林○○稱述，16 時50 分許，罹災者幫忙把要連結在\n鋼架上的拉桿套索，以利在屋頂鋼架上的師傅拉升後以螺絲固定在鋼架對角兩側，復\n又表示要協助鎖固作業，而使用拉梯斜撐在牆壁，在未使用安全帶下爬升至5 到6 公\n尺高度，因鎖螺絲固定時重心不穩，而自梯面墜落至2 樓樓板面，經救護車送往大甲\n光田醫院急救仍不治死亡。",
+    "cause_analysis": "(一)直接原因：自移動梯墜落至樓板面，造成頭部外傷致顱腦損傷，傷重不治死亡。 \n(二)間接原因： \n不安全狀況：",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "其他設備",
+    "medium_type_general_id": "3",
+    "medium_type_normal": "用具",
+    "medium_type_normal_id": "37",
+    "medium_type_specific": "梯子等",
+    "medium_type_specific_id": "371",
+    "description_summary": "罹災者未使用安全帶爬梯至5-6米高鎖螺絲，重心不穩墜落，送醫不治。",
+    "cause_summary": "「勞工未使用安全帽、雇主未禁止使用不安全的自移動梯」"
+  }
+]

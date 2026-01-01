@@ -1,0 +1,37 @@
+[
+  {
+    "industry": "金屬結構製造業（2521）",
+    "incident": "物體倒塌、崩塌（5）",
+    "medium_type": "金屬材料－鋼捲（521）",
+    "description": "113 年11 月29 日13 時50 分許，○○鋼鐵股份有限公司所僱勞工王\n○○駕駛自用大貨曳引車運載鋼捲至○○有限公司，於王○○將鋼捲運抵\n○○有限公司後",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "物體倒塌, 崩塌",
+    "incident_type_id": "5",
+    "medium_type_general": "物質材料",
+    "medium_type_general_id": "5",
+    "medium_type_normal": "材料",
+    "medium_type_normal_id": "52",
+    "medium_type_specific": "金屬材料",
+    "medium_type_specific_id": "521",
+    "description_summary": "113年11月29日，王○○駕駛大貨曳引車運載鋼捲至○○有限公司。"
+  },
+  {
+    "industry": "金屬結構製造業（2521）",
+    "incident": "物體倒塌、崩塌（5）",
+    "medium_type": "金屬材料－鋼捲（521）",
+    "description": "113 年11 月29 日13 時50 分許，○○鋼鐵股份有限公司所僱勞工王\n○○駕駛自用大貨曳引車運載鋼捲至○○有限公司，於王○○將鋼捲運抵\n○○有限公司後從事卸貨作業中，王○○站立於貨車載貨台上鋼捲旁剪斷\n鋼製打包帶後，發生鋼捲倒塌輾壓災害致死之職業災害，經本府消防局救\n災救護指揮中心派員至現場確認當場明顯死亡。",
+    "cause_analysis": "(一)直接原因：勞工於鋼捲卸貨作業時遭倒塌之鋼捲輾壓，造成頭骨碎裂\n致外傷性休克不治死亡。 \n(二)間接原因：1.未提供並規定勞工使用鋼管樁等適當設備防止載貨台物\n料移動、倒塌。 \n 2.於單一重量超過100 公斤之鋼捲卸貨作業時未指定專人\n決定作業方法及順序，並指揮作業、",
+    "preventive_measures": "",
+    "incident_type": "物體倒塌, 崩塌",
+    "incident_type_id": "5",
+    "medium_type_general": "物質材料",
+    "medium_type_general_id": "5",
+    "medium_type_normal": "材料",
+    "medium_type_normal_id": "52",
+    "medium_type_specific": "金屬材料",
+    "medium_type_specific_id": "521",
+    "description_summary": "勞工王○○卸貨時剪斷鋼製打包帶，鋼捲倒塌輾壓致死。",
+    "cause_summary": "「勞工未使用鋼管樁等適當設備防止載貨台物料移動、雇主未規定勞工使用鋼管樁等適當設備防止載貨台物料倒塌、雇主未指定專人決定單一重量超過100公斤之鋼捲卸貨作業方法及順序、雇主未指揮鋼捲卸貨作業」"
+  }
+]

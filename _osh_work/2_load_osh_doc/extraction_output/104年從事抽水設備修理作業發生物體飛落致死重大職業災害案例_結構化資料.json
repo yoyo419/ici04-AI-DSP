@@ -1,0 +1,38 @@
+[
+  {
+    "industry": "紙漿製造業、紙張製造業、紙板製造業（1511、1512、1513）",
+    "incident": "物體飛落（4）",
+    "medium_type": "傳動輪（122）",
+    "description": "於104 年6 月8 日1 時許，盧○○及林○○",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "物體飛落",
+    "incident_type_id": "4",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "動力傳導裝置",
+    "medium_type_normal_id": "12",
+    "medium_type_specific": "傳動輪",
+    "medium_type_specific_id": "122",
+    "description_summary": "盧○○及林○○於104年6月8日1時許發生事故，具體情況未提供。"
+  },
+  {
+    "industry": "紙漿製造業、紙張製造業、紙板製造業（1511、1512、1513）",
+    "incident": "物體飛落（4）",
+    "medium_type": "傳動輪（122）",
+    "description": "於104 年6 月8 日1 時許，盧○○及林○○從事機械基本維護及異常\n排除等作業時，發現抽水泵及馬達之皮帶破損，盧○○請林○○將抽水泵\n及馬達電源關閉並拿取欲更換之新皮帶，林○○離開後，盧○○仍於抽水\n泵及馬達前方等待，於等待過程中遭其抽水泵及馬達皮帶輪破裂碎片擊中\n右大腿後，經送衛生福利部豐原醫院急救無效，不治死亡。",
+    "cause_analysis": "(一)直接原因：盧○○遭飛散之皮帶輪破裂碎片擊中，因下肢創傷並血管\n破裂大出血，導致休克而不治死亡。 \n(二)間接原因：對於抽水泵及馬達修理，未確實停止相關機械運轉。 \n(三)基本原因：未訂定抽水泵及馬達修理之安全衛生作業標準。",
+    "preventive_measures": "(一) \n雇主對於機械之掃除、上油、檢查、修理或調整有導致危害勞工之\n虞者，應停止相關機械運轉及送料。為防止他人操作該機械之起動\n等裝置或誤送料，應採上鎖或設置標示等措施，並設置防止落下物\n導致危害勞工之安全設備與措施。(職業安全衛生設施規則第57 條\n第1 項暨職業安全衛生法第6 條第1 項) \n(二) \n雇主應依其事業單位之規模、性質，訂定職業安全衛生管理計畫；\n並設置安全衛生組織、人員，實施安全衛生管理及自動檢查。(職\n業安全衛生法第23 條第1 項)",
+    "incident_type": "物體飛落",
+    "incident_type_id": "4",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "動力傳導裝置",
+    "medium_type_normal_id": "12",
+    "medium_type_specific": "傳動輪",
+    "medium_type_specific_id": "122",
+    "description_summary": "盧○○在維護作業中被抽水泵及馬達皮帶輪碎片擊中右大腿，送醫不治身亡。",
+    "cause_summary": "「勞工未確實停止抽水泵及馬達運轉、雇主未訂定抽水泵及馬達修理之安全衛生作業標準」",
+    "preventive_regulations": "職業安全衛生設施規則第57條第1項暨職業安全衛生法第6條第1項,職業安全衛生法第23條第1項"
+  }
+]

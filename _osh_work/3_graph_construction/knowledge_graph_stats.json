@@ -1,0 +1,124 @@
+{
+  "total_nodes": 2514,
+  "total_edges": 24570,
+  "node_type_distribution": {
+    "Incident": 431,
+    "Cause_Basic": 4,
+    "Cause_Indirect": 2,
+    "Cause_Direct": 421,
+    "Violation": 1021,
+    "Medium_Specific": 52,
+    "Medium_Normal": 18,
+    "Medium_General": 8,
+    "Industry": 174,
+    "IncidentType": 17,
+    "Regulation": 366
+  },
+  "edge_relation_distribution": {
+    "INVOLVES_OBJECT": 432,
+    "OCCURS_IN": 432,
+    "HAS_INCIDENT_TYPE": 432,
+    "ENABLED_BY": 4,
+    "LEADS_TO": 2151,
+    "HAS_CAUSE": 432,
+    "VIOLATES_LAW": 19830,
+    "IS_SUBCLASS_OF": 857
+  },
+  "most_cited_regulations": [
+    [
+      "REG_bed831374886",
+      3490
+    ],
+    [
+      "REG_0ae02e66655d",
+      3239
+    ],
+    [
+      "REG_85fb1e8e9099",
+      1205
+    ],
+    [
+      "REG_7147dfd10ba3",
+      1041
+    ],
+    [
+      "REG_c4bb196f305b",
+      950
+    ],
+    [
+      "REG_57c7da3b137f",
+      908
+    ],
+    [
+      "REG_7d9bbf249b71",
+      841
+    ],
+    [
+      "REG_8df545a2ec98",
+      727
+    ],
+    [
+      "REG_f00581596666",
+      674
+    ],
+    [
+      "REG_0a2dfc90007d",
+      352
+    ],
+    [
+      "REG_92d43962dee3",
+      322
+    ],
+    [
+      "REG_1dfb18c9c8e9",
+      264
+    ],
+    [
+      "REG_0392a38fb0aa",
+      245
+    ],
+    [
+      "REG_0e899003c32f",
+      220
+    ],
+    [
+      "REG_d2a5140af0b5",
+      207
+    ],
+    [
+      "REG_f554692d60af",
+      138
+    ],
+    [
+      "REG_6cea9fdc2ed3",
+      129
+    ],
+    [
+      "REG_5cb22591347b",
+      126
+    ],
+    [
+      "REG_4ec68d028477",
+      117
+    ],
+    [
+      "REG_f2f09dbd46aa",
+      115
+    ]
+  ],
+  "graph_density": 0.003889084635788886,
+  "is_connected": false,
+  "construction_stats": {
+    "incident": 432,
+    "cause_basic": 4,
+    "cause_indirect": 2,
+    "cause_direct": 430,
+    "violation": 2151,
+    "medium_specific": 52,
+    "medium_normal": 18,
+    "medium_general": 8,
+    "industry": 174,
+    "incident_type": 17,
+    "regulation": 366
+  }
+}

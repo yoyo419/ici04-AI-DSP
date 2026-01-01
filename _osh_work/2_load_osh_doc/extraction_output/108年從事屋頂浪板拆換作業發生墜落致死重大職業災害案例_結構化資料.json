@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "冷凍、空調及管道工程業(4332)",
+    "incident": "墜落 (1)",
+    "medium_type": "屋頂 (415)",
+    "description": "108 年7 月10 日16 時30 分許，罹災者李○○於北側廠房屋頂浪板拆換\n作業，因該屋頂上未規劃安全通道，且未於屋架上設適當強度且寬度在30\n公分以上之踏板，亦未於屋架下方適當範圍，裝設堅固格柵、安全網等防\n墜設施，致踏穿距地面高度約5.38 公尺之石膏板後墜落地面，造成頭部\n外傷，導致顱內出血及顱骨折而不治死亡。",
+    "cause_analysis": "(一)直接原因：自距地面高度約5.38 公尺之廠房屋頂踏穿石膏板墜落至\n地面，造成頭部外傷，導致顱內出血及顱骨折而不治死亡。 \n (二)間接原因： \n 不安全狀況：",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "李○○在屋頂作業時因缺乏安全設施墜落，頭部重傷不治身亡。",
+    "cause_summary": "「勞工未使用安全帽等防護工具、雇主未禁止在不安全屋頂上作業、雇主未辦理勞工安全衛生教育訓練、雇主未訂定適合之安全衛生工作守則」"
+  }
+]

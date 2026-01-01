@@ -1,0 +1,19 @@
+[
+  {
+    "industry": "建物完工裝修工程業(4340)",
+    "incident": "(分類號碼)：墜落、滾落（1）",
+    "medium_type": "(分類號碼)：梯子等（371）",
+    "description": "",
+    "cause_analysis": "114 年1 月21 日10 時53 分許，罹災者白○\n災者白○ \n○使用合梯",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "其他設備",
+    "medium_type_general_id": "3",
+    "medium_type_normal": "用具",
+    "medium_type_normal_id": "37",
+    "medium_type_specific": "梯子等",
+    "medium_type_specific_id": "371",
+    "cause_summary": "「勞工未使用合梯」"
+  }
+]

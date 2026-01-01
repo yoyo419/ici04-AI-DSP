@@ -1,0 +1,18 @@
+[
+  {
+    "industry": "汽車維修業(9511)",
+    "incident": "(分類號碼)：被撞（6）",
+    "medium_type": "(分類號碼)：其他(拖車) (229)",
+    "description": "",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "被撞",
+    "incident_type_id": "6",
+    "medium_type_general": "裝卸運搬機械",
+    "medium_type_general_id": "2",
+    "medium_type_normal": "動力運搬機械",
+    "medium_type_normal_id": "22",
+    "medium_type_specific": "其他",
+    "medium_type_specific_id": "229"
+  }
+]

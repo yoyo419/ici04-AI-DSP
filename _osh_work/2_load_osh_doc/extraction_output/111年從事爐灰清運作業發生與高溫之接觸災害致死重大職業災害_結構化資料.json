@@ -1,0 +1,19 @@
+[
+  {
+    "industry": "非有害廢棄物清除業(3811)",
+    "incident": "（分類號碼）：與高溫之接觸（11）",
+    "medium_type": "（分類號碼）：水（713）",
+    "description": "110年9月22日9時50分許，罹災者楊○○為配合承攬人○○公司進行底\n灰斗海水出灰系統之修理、調整及爐灰掃除，駕駛鏟土機於原事業單位○○\n鍋爐房側門之緊急集灰倉",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "與高溫, 低溫接觸",
+    "incident_type_id": "11",
+    "medium_type_general": "環境",
+    "medium_type_general_id": "7",
+    "medium_type_normal": "環境",
+    "medium_type_normal_id": "71",
+    "medium_type_specific": "水",
+    "medium_type_specific_id": "713",
+    "description_summary": "楊○○駕駛鏟土機修理底灰斗海水出灰系統時，在鍋爐房側門緊急集灰倉發生事故。"
+  }
+]

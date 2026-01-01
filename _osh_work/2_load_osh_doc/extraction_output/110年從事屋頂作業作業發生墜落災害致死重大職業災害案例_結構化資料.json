@@ -1,0 +1,19 @@
+[
+  {
+    "industry": "建物完工裝修工程業（4340）",
+    "incident": "墜落、滾落(1)",
+    "medium_type": "屋頂、屋架、樑（415）",
+    "description": "110 年4 月10 日8 時許，黃○○、鄭○○、謝○○、陳○○、林○○\n及蒲○○相約於○○有限公司集合，由黃○○告知工作範圍後黃○○隨即\n離開○○有限公司，於同日9 時30 分許，於該廠房屋頂西南側罹災者鄭\n○○與陳○○共同",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "屋頂, 屋架, 樑",
+    "medium_type_specific_id": "415",
+    "description_summary": "110年4月10日，鄭○○與陳○○於○○有限公司屋頂工作時發生意外。"
+  }
+]

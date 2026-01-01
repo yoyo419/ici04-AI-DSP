@@ -1,0 +1,38 @@
+[
+  {
+    "industry": "清潔用品及化粧品製造業（1930）",
+    "incident": "被夾、被捲（7）",
+    "medium_type": "(混合機)(157)",
+    "description": "109 年8 月17 日14 時36 分，雇主使勞工謝○○",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "被夾, 被捲",
+    "incident_type_id": "7",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "一般動力機械",
+    "medium_type_normal_id": "15",
+    "medium_type_specific": "混合機, 粉碎機",
+    "medium_type_specific_id": "157",
+    "description_summary": "109年8月17日14時36分，勞工謝○○在工作中發生意外，具體情況未詳。"
+  },
+  {
+    "industry": "清潔用品及化粧品製造業（1930）",
+    "incident": "被夾、被捲（7）",
+    "medium_type": "(混合機)(157)",
+    "description": "109 年8 月17 日14 時36 分，雇主使勞工謝○○從事以混合機進行皂粒\n混合作業，未於適當位置設置有明顯標誌之緊急制動裝置，立即遮斷動力\n並與制動系統連動，能於緊急時快速停止機械之運轉，且未於該混合機之\n開口部份與可動部份之接觸而危害勞工設置護圍等之設備，致發生謝○○ \n上半身遭混合機捲入，造成周身多處挫壓創傷併失血過多休克不治死亡。",
+    "cause_analysis": "(一)直接原因：遭混合機捲入，造成勞工謝○○死亡之職業災害。 \n (二)間接原因： \n 不安全狀況： \n1. 對於混合機之開口與可動部份，未有設置護圍等之設備。 \n2. 對於使用混合機，未於適當位置設置有明顯標誌之緊急制動裝置，立\n即遮斷動力並與制動系統連動，能於緊急時快速停止機械之運轉。 \n (三)基本原因：未使其接受使用生產性機械或設備教育訓練3 小時。",
+    "preventive_measures": "(一) 雇主對於使用動力運轉之機械，具有顯著危險者，應於適當位置設置\n有明顯標誌之緊急制動裝置，立即遮斷動力並與制動系統連動，能於\n緊急時快速停止機械之運轉。(職業安全衛生設施規則第45 條暨職業\n安全衛生法第6 條第1 項) \n(二) 為防止勞工有自粉碎機及混合機之開口部分墜落之虞，雇主應有覆蓋，\n護圍、高度在九十公分以上之圍柵等必要設備。但設置覆蓋、護圍或\n圍柵有阻礙作業，且",
+    "incident_type": "被夾, 被捲",
+    "incident_type_id": "7",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "一般動力機械",
+    "medium_type_normal_id": "15",
+    "medium_type_specific": "混合機, 粉碎機",
+    "medium_type_specific_id": "157",
+    "description_summary": "勞工操作混合機時因缺乏緊急制動裝置及防護設備，導致上半身捲入機器，失血過多休克死亡。",
+    "cause_summary": "「雇主未設置混合機護圍設備、雇主未設置緊急制動裝置、雇主未辦理使用生產性機械或設備教育訓練」",
+    "preventive_regulations": "職業安全衛生設施規則第45條暨職業安全衛生法第6條第1項"
+  }
+]

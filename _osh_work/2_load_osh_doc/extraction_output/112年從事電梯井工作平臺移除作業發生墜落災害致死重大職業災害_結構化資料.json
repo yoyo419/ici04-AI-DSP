@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "其他專門營造業(4390)",
+    "incident": "墜落、滾落（1）",
+    "medium_type": "工作台、踏板（416）",
+    "description": "罹災者黎○○為馮○○所僱之勞工，於112 年5 月4 日至「○○○○○○假設、結\n構新建工程」從事F 棟12 樓模板工程拆除和搬運，依據所長張○○稱述112 年5\n月4 日16 時10 分許罹災者黎○○於F 棟12 樓電梯井工作平臺模板上作業時不慎\n墜落，於B1 臨時垃圾集中槽發現罹災者，立即聯絡救護單位，緊急送至國軍臺中\n總醫院，經搶救後不治死亡。",
+    "cause_analysis": "(一) 直接原因：罹災者黎○○",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "營建物及施工設備",
+    "medium_type_general_id": "4",
+    "medium_type_normal": "營建物及施工設備",
+    "medium_type_normal_id": "41",
+    "medium_type_specific": "工作台, 踏板",
+    "medium_type_specific_id": "416",
+    "description_summary": "黎○○於F棟12樓拆除模板時不慎墜落至B1垃圾槽，送醫搶救不治身亡。",
+    "cause_summary": "「勞工未架設安全設備」"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "industry": "其他通用機械設備製造業（2939）",
+    "incident": "墜落、滾落（1）",
+    "medium_type": "堆高機(222)",
+    "description": "依據○○有限公司廠長林○○稱述，罹災者陳○○於公司旁道路進行除草清\n潔，因發現停車場出路口處反光鏡被路樹遮擋，便請同事戴○○開堆高機協助抬\n高以便處理反光鏡上方之樹枝，陳員站立於堆高機貨叉上",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "墜落, 滾落",
+    "incident_type_id": "1",
+    "medium_type_general": "裝卸運搬機械",
+    "medium_type_general_id": "2",
+    "medium_type_normal": "動力運搬機械",
+    "medium_type_normal_id": "22",
+    "medium_type_specific": "堆高機",
+    "medium_type_specific_id": "222",
+    "description_summary": "陳○○在除草時因反光鏡被遮擋，站立於堆高機貨叉上修剪樹枝。"
+  }
+]

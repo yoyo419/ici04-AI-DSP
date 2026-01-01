@@ -1,0 +1,37 @@
+[
+  {
+    "industry": "鋼鐵鑄造業（2412）",
+    "incident": "被撞（6）",
+    "medium_type": "混合機（157）",
+    "description": "109 年6 月30 日勞工A 君、B 君與罹災者共同於混砂區",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "被撞",
+    "incident_type_id": "6",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "一般動力機械",
+    "medium_type_normal_id": "15",
+    "medium_type_specific": "混合機, 粉碎機",
+    "medium_type_specific_id": "157",
+    "description_summary": "109年6月30日，勞工A、B與罹災者在混砂區作業時發生意外，罹災者受傷。"
+  },
+  {
+    "industry": "鋼鐵鑄造業（2412）",
+    "incident": "被撞（6）",
+    "medium_type": "混合機（157）",
+    "description": "109 年6 月30 日勞工A 君、B 君與罹災者共同於混砂區從事進砂桶\n之掃除作業，當日6 時30 分許，A 君與B 君爬至混砂機頂部以工具疏通\n進砂桶結塊之砂料，罹災者則自未具有連鎖裝置之安全門進入已暫停運轉\n之混砂機內部疏通進砂口，惟混砂機馬達受集砂坑之滿位開關再次驅動恢\n復運轉，致罹災者遭混砂機內攪拌裝置之輾壓滾輪撞擊，經送醫後不治死\n亡之職業災害。",
+    "cause_analysis": "（一）直接原因：遭運轉攪拌裝置之輾壓滾輪撞擊，造成罹災者死亡之職\n業災害。 \n（二）間接原因： \n不安全狀況： \n（1） 對於",
+    "preventive_measures": "",
+    "incident_type": "被撞",
+    "incident_type_id": "6",
+    "medium_type_general": "動力機械",
+    "medium_type_general_id": "1",
+    "medium_type_normal": "一般動力機械",
+    "medium_type_normal_id": "15",
+    "medium_type_specific": "混合機, 粉碎機",
+    "medium_type_specific_id": "157",
+    "description_summary": "勞工於混砂機內疏通進砂口時，因機器意外啟動遭輾壓滾輪撞擊，送醫不治死亡。",
+    "cause_summary": "「勞工遭運轉攪拌裝置之輾壓滾輪撞擊、雇主未禁止危險設備操作、雇主未訂定適合之安全衛生工作守則」"
+  }
+]

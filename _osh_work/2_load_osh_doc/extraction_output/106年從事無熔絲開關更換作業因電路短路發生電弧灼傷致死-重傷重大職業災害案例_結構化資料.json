@@ -1,0 +1,38 @@
+[
+  {
+    "industry": "未分類其他紙製品製造業（1599）",
+    "incident": "感電（13）",
+    "medium_type": "電力設備（352）",
+    "description": "105 年9 月12 日下午14 時15 分許，勞工陳○○、劉○○位於廠內第7\n變電所",
+    "cause_analysis": "",
+    "preventive_measures": "",
+    "incident_type": "感電",
+    "incident_type_id": "13",
+    "medium_type_general": "其他設備",
+    "medium_type_general_id": "3",
+    "medium_type_normal": "電氣設備",
+    "medium_type_normal_id": "35",
+    "medium_type_specific": "電力設備",
+    "medium_type_specific_id": "352",
+    "description_summary": "105年9月12日14時15分，陳○○、劉○○於第7變電所作業時發生事故。"
+  },
+  {
+    "industry": "未分類其他紙製品製造業（1599）",
+    "incident": "感電（13）",
+    "medium_type": "電力設備（352）",
+    "description": "105 年9 月12 日下午14 時15 分許，勞工陳○○、劉○○位於廠內第7\n變電所從事無熔絲開關更換作業，隨即聽到一聲爆炸，當時看到陳○○及\n劉○○退離該處所，廠長當時立即通報救護車將傷者送往梧棲童綜合醫院\n急救，惟勞工陳○○因傷重於105 年10 月24 日死亡。",
+    "cause_analysis": "(一)直接原因：遭電弧燒灼傷，造成勞工陳○○傷重死亡及勞工劉○○受\n傷。 \n (二)間接原因： \n 不安全狀況：活線作業未於該電路裝置絕緣用防護裝備。 \n (三)基本原因： \n(1)未對勞工施以從事工作與預防災變所必要之安全衛生教育及訓\n練。 \n(2)未訂定電氣設備維修作業之安全作業標準。",
+    "preventive_measures": "(一) 雇主使勞工於低壓電路",
+    "incident_type": "感電",
+    "incident_type_id": "13",
+    "medium_type_general": "其他設備",
+    "medium_type_general_id": "3",
+    "medium_type_normal": "電氣設備",
+    "medium_type_normal_id": "35",
+    "medium_type_specific": "電力設備",
+    "medium_type_specific_id": "352",
+    "description_summary": "105年9月12日，陳○○與劉○○更換無熔絲開關時爆炸，陳○○重傷，10月24日不治身亡。",
+    "cause_summary": "「勞工未於活線作業中使用絕緣用防護裝備、雇主未對勞工施以從事工作與預防災變所必要之安全衛生教育及訓練、雇主未訂定電氣設備維修作業之安全作業標準」",
+    "preventive_regulations": "勞工安全衛生法第25條第1項,勞工安全衛生法第14條第2項,勞工安全衛生組織管理及自動檢查辦法第12條之1第2項暨勞工安全衛生法第14條第3項"
+  }
+]
