@@ -352,9 +352,14 @@ For current graph, there are several problems:
 *   Reference: **Chatlaw** (Multi-Agent Collaborative Legal Assistant).
 *   [2306.16092] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model
 
+---
+
 # Preliminary Results
 * Qwen 2.5-7B + RGAT + BoxE: BERT-F1 44.05%; ROUGE-L 21.16%.
 * GPT-4o: BERT-F1 44.23%; ROUGE-L 17.90%.
+
+# Version and Updates
+* 2026/1/1: Upload preliminary work and results.
 
 # Contributors
 * Hsu Kuan, Huang
