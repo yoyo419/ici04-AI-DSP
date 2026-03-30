@@ -1,10 +1,33 @@
 # Legal Reasoning: Geometry-Aware Graph Injection with BoxE
 
-**Legal Reasoning Project | NCCU**
+**Capstone Project | International College of Innovation, National Chengchi University (NCCU)**
 
-This project focuses on geometrizing legal logic by transforming regulatory texts into high-dimensional hyper-rectangles. By employing a hybrid RGAT-BoxE architecture, the system solves range ambiguity and achieves expert-level reasoning in the Occupational Safety and Health (OSH) domain.
-* Claim: This project is now still working with many future works. If there are any modification or updates,  we will written in this README file.
-* *Note: This project entails large use with OPENAI API.*
+This repository contains the official implementation and documentation for our capstone project, developed for the *Capstone: Practice of Generative AI and Data Science* course. 
+
+Our project focuses on geometrizing legal logic by transforming regulatory texts into high-dimensional hyper-rectangles. By employing a hybrid RGAT-BoxE architecture, the system resolves range ambiguity and achieves expert-level reasoning in the Occupational Safety and Health (OSH) domain.
+
+> **Note:** This project is under active development. Any modifications or updates will be documented in this README file. 
+> **API Usage:** This project entails extensive use of the OpenAI API.
+
+---
+
+## Preliminary Results
+
+We evaluated our proposed Neuro-Symbolic architecture against state-of-the-art Large Language Models. The results demonstrate that our specialized approach is highly competitive, outperforming GPT-4o in the ROUGE-L metric.
+
+# Preliminary Results
+* Qwen 2.5-7B + RGAT + BoxE: BERT-F1 44.05%; ROUGE-L 21.16%.
+* GPT-4o: BERT-F1 44.23%; ROUGE-L 17.90%.
+
+---
+
+## Future Work
+
+We are continuously expanding the capabilities of this framework. Our upcoming research and development directions include:
+
+* **(1) Graph Prompting:** applying the 2026 AI Cross-Domain Research Initiative Grant in NCCU.
+* **(2) Relational Attention Theory:** applying the NSTC College Student Research Project (國科會大專生研究計畫), led by Hsu Kuan, Huang.
+* **(3) GraphRAG Integration:** An ongoing side project aiming to enhance retrieval-augmented generation with graph structures.
 
 ---
 
@@ -353,10 +376,6 @@ For current graph, there are several problems:
 *   [2306.16092] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model
 
 ---
-
-# Preliminary Results
-* Qwen 2.5-7B + RGAT + BoxE: BERT-F1 44.05%; ROUGE-L 21.16%.
-* GPT-4o: BERT-F1 44.23%; ROUGE-L 17.90%.
 
 # Version and Updates
 * 2026/1/1: Upload preliminary work and results.
