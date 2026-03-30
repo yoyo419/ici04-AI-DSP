@@ -6,7 +6,8 @@ This repository contains the official implementation and documentation for our c
 
 Our project focuses on geometrizing legal logic by transforming regulatory texts into high-dimensional hyper-rectangles. By employing a hybrid RGAT-BoxE architecture, the system resolves range ambiguity and achieves expert-level reasoning in the Occupational Safety and Health (OSH) domain.
 
-> **Note:** This project is under active development. Any modifications or updates will be documented in this README file. 
+> **Note:** This project is under active development. Any modifications or updates will be documented in this README file.
+ 
 > **API Usage:** This project entails extensive use of the OpenAI API.
 
 ---
@@ -15,7 +16,6 @@ Our project focuses on geometrizing legal logic by transforming regulatory texts
 
 We evaluated our proposed Neuro-Symbolic architecture against state-of-the-art Large Language Models. The results demonstrate that our specialized approach is highly competitive, outperforming GPT-4o in the ROUGE-L metric.
 
-# Preliminary Results
 * Qwen 2.5-7B + RGAT + BoxE: BERT-F1 44.05%; ROUGE-L 21.16%.
 * GPT-4o: BERT-F1 44.23%; ROUGE-L 17.90%.
 
